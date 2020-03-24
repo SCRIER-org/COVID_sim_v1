@@ -28,8 +28,8 @@ GET STARTED:
     It really hardly matters where you start.
     
  Contributions: 
- a) No one known before has given day-by-day breakdown prediction of how many Known (official) infections.
- b) No one known before has incorporated assumptions about hospital and ventilator saturations on deaths.
+1. Day-by-day breakdown prediction of how many Known (official) infections.  This is important to establish credibility--we are boldly predicting totals weeks ahead of time.  So far it's scarily accurate.
+2. Assumptions about hospital and ventilator saturations on deaths.
  
  LEAVES OUT:
  350,000 pregnant births EACH MONTH in America, will have to stay at home.
