@@ -1,0 +1,1565 @@
+Powered by SCRIER.org.  If you enjoy saving lives, please tip gofundme.com/f/scrier
+
+
+
+Starting Run:
+USA Baseline Scenario:  No Lockdowns/No Self-Isolation, B- 0.42
+[0] Mar 13:   actual: 21,957,    official: 2,195,   infectious: 12,326,   dead: 4 
+
+[1] Mar 14:   actual: 28,818,    official: 2,881,   infectious: 16,338,   dead: 9 
+
+[2] Mar 15:   actual: 37,787,    official: 3,777,   infectious: 21,357,   dead: 14 
+
+[3] Mar 16:   actual: 49,612,    official: 4,959,   infectious: 28,159,   dead: 46 
+
+[4] Mar 17:   actual: 65,173,    official: 6,515,   infectious: 37,058,   dead: 74 
+
+[5] Mar 18:   actual: 85,646,    official: 8,562,   infectious: 48,759,   dead: 110 
+
+[6] Mar 19:   actual: 112,465,    official: 11,243,   infectious: 63,876,   dead: 144 
+
+[7] Mar 20:   actual: 147,704,    official: 14,766,   infectious: 83,941,   dead: 195 
+
+[8] Mar 21:   actual: 193,984,    official: 19,394,   infectious: 110,255,   dead: 207 
+
+[9] Mar 22:   actual: 254,827,    official: 25,478,   infectious: 144,976,   dead: 211 
+
+[10] Mar 23:   actual: 334,704,    official: 33,465,   infectious: 190,377,   dead: 216 
+
+[11] Mar 24:   actual: 439,606,    official: 43,955,   infectious: 250,101,   dead: 221 
+
+[12] Mar 25:   actual: 577,334,    official: 57,727,   infectious: 328,501,   dead: 253 
+
+[13] Mar 26:   actual: 757,796,    official: 75,773,   infectious: 430,667,   dead: 281 
+
+[14] Mar 27:   actual: 994,619,    official: 99,455,   infectious: 565,579,   dead: 317 
+
+[15] Mar 28:   actual: 1,305,171,    official: 130,510,   infectious: 742,364,   dead: 351 
+
+[16] Mar 29:   actual: 1,712,306,    official: 171,223,   infectious: 974,457,   dead: 402 
+
+[17] Mar 30:   actual: 2,245,036,    official: 224,496,   infectious: 1,277,152,   dead: 531 
+
+[18] Mar 31:   actual: 2,942,175,    official: 294,209,   infectious: 1,674,896,   dead: 702 
+
+[19] Apr  1:   actual: 3,853,355,    official: 385,327,   infectious: 2,195,312,   dead: 926 
+
+[20] Apr  2:   actual: 5,043,118,    official: 504,303,   infectious: 2,877,115,   dead: 1,221 
+
+[21] Apr  3:   actual: 6,593,653,    official: 659,356,   infectious: 3,767,756,   dead: 1,610 
+
+[22] Apr  4:   actual: 8,609,950,    official: 860,985,   infectious: 4,930,755,   dead: 2,121 
+
+[23] Apr  5:   actual: 11,224,079,    official: 1,122,397,   infectious: 6,446,119,   dead: 2,791 
+
+[24] Apr  6:   actual: 14,600,235,    official: 1,460,012,   infectious: 8,416,330,   dead: 3,671 
+
+[25] Apr  7:   actual: 18,938,538,    official: 1,893,842,   infectious: 10,969,948,   dead: 4,828 
+
+[26] Apr  8:   actual: 24,476,639,    official: 2,447,652,   infectious: 14,266,717,   dead: 6,349 
+
+[27] Apr  9:   actual: 31,486,259,    official: 3,148,614,   infectious: 18,500,934,   dead: 8,345 
+
+[28] Apr 10:   actual: 40,261,055,    official: 4,026,093,   infectious: 23,902,813,   dead: 10,967 
+
+
+RAN OUT OF VENTILATORS
+[29] Apr 11:   actual: 51,090,570,    official: 5,109,044,   infectious: 30,734,111,   dead: 14,410 
+
+[30] Apr 12:   actual: 64,227,861,    official: 6,422,773,   infectious: 39,313,450,   dead: 18,921 
+
+[31] Apr 13:   actual: 79,805,042,    official: 7,980,491,   infectious: 49,911,315,   dead: 24,841 
+
+
+RAN OUT OF HOSPITAL BEDS
+[32] Apr 14:   actual: 97,745,909,    official: 9,774,577,   infectious: 62,746,203,   dead: 32,604 
+
+[33] Apr 15:   actual: 117,705,936,    official: 11,770,579,   infectious: 78,033,819,   dead: 80,514 
+
+[34] Apr 16:   actual: 138,983,365,    official: 13,898,321,   infectious: 95,734,728,   dead: 166,847 
+
+[35] Apr 17:   actual: 160,502,853,    official: 16,050,269,   infectious: 115,381,078,   dead: 279,169 
+
+[36] Apr 18:   actual: 180,988,564,    official: 18,098,840,   infectious: 136,248,764,   dead: 424,891 
+
+[37] Apr 19:   actual: 199,218,130,    official: 19,921,796,   infectious: 157,233,826,   dead: 594,398 
+
+[38] Apr 20:   actual: 214,310,130,    official: 21,430,996,   infectious: 176,900,400,   dead: 942,521 
+
+[39] Apr 21:   actual: 225,937,257,    official: 22,593,708,   infectious: 193,918,020,   dead: 1,550,491 
+
+[40] Apr 22:   actual: 234,323,253,    official: 23,432,307,   infectious: 207,443,689,   dead: 2,327,422 
+
+[41] Apr 23:   actual: 240,043,085,    official: 24,004,290,   infectious: 217,179,115,   dead: 3,331,203 
+
+[42] Apr 24:   actual: 243,778,299,    official: 24,377,811,   infectious: 223,296,261,   dead: 4,603,207 
+
+[43] Apr 25:   actual: 246,142,010,    official: 24,614,182,   infectious: 226,139,229,   dead: 6,180,565 
+
+[44] Apr 26:   actual: 247,608,497,    official: 24,760,830,   infectious: 226,260,069,   dead: 8,104,654 
+
+[45] Apr 27:   actual: 248,509,001,    official: 24,850,880,   infectious: 224,132,744,   dead: 10,393,861 
+
+[46] Apr 28:   actual: 249,059,960,    official: 24,905,975,   infectious: 219,954,459,   dead: 13,196,727 
+
+[47] Apr 29:   actual: 249,397,701,    official: 24,939,749,   infectious: 213,859,571,   dead: 16,543,358 
+
+[48] Apr 30:   actual: 249,606,197,    official: 24,960,598,   infectious: 206,051,305,   dead: 20,239,954 
+
+[49] May  1:   actual: 249,736,322,    official: 24,973,610,   infectious: 196,686,282,   dead: 24,175,450 
+
+[50] May  2:   actual: 249,818,640,    official: 24,981,841,   infectious: 185,828,386,   dead: 28,176,185 
+
+[51] May  3:   actual: 249,871,468,    official: 24,987,123,   infectious: 173,386,112,   dead: 32,024,869 
+
+[52] May  4:   actual: 249,905,888,    official: 24,990,565,   infectious: 159,400,509,   dead: 35,504,329 
+
+[53] May  5:   actual: 249,928,650,    official: 24,992,841,   infectious: 143,962,640,   dead: 38,425,607 
+
+[54] May  6:   actual: 249,943,887,    official: 24,994,364,   infectious: 127,118,547,   dead: 40,812,428 
+
+
+HOSPITAL BEDS FINALLY AVAILABLE
+[55] May  7:   actual: 249,954,173,    official: 24,995,392,   infectious: 109,114,194,   dead: 42,693,022 
+
+[56] May  8:   actual: 249,961,153,    official: 24,996,090,   infectious: 90,662,166,   dead: 44,003,202 
+
+[57] May  9:   actual: 249,965,886,    official: 24,996,563,   infectious: 72,524,342,   dead: 44,852,995 
+
+[58] May 10:   actual: 249,969,072,    official: 24,996,881,   infectious: 55,590,341,   dead: 45,354,632 
+
+[59] May 11:   actual: 249,971,188,    official: 24,997,092,   infectious: 40,733,411,   dead: 45,601,207 
+
+
+VENTILATORS FINALLY AVAILABLE
+[60] May 12:   actual: 249,972,572,    official: 24,997,230,   infectious: 28,583,376,   dead: 45,661,134 
+
+[61] May 13:   actual: 249,973,459,    official: 24,997,318,   infectious: 19,260,189,   dead: 45,671,194 
+
+[62] May 14:   actual: 249,974,018,    official: 24,997,373,   infectious: 12,538,992,   dead: 45,675,731 
+
+[63] May 15:   actual: 249,974,365,    official: 24,997,407,   infectious: 7,956,685,   dead: 45,677,286 
+
+[64] May 16:   actual: 249,974,579,    official: 24,997,428,   infectious: 4,964,897,   dead: 45,677,977 
+
+[65] May 17:   actual: 249,974,710,    official: 24,997,441,   infectious: 3,071,475,   dead: 45,678,882 
+
+[66] May 18:   actual: 249,974,791,    official: 24,997,449,   infectious: 1,896,608,   dead: 45,680,066 
+
+[67] May 19:   actual: 249,974,841,    official: 24,997,454,   infectious: 1,175,052,   dead: 45,681,610 
+
+[68] May 20:   actual: 249,974,872,    official: 24,997,457,   infectious: 733,496,   dead: 45,682,930 
+
+[69] May 21:   actual: 249,974,892,    official: 24,997,459,   infectious: 462,771,   dead: 45,683,790 
+
+[70] May 22:   actual: 249,974,904,    official: 24,997,460,   infectious: 295,618,   dead: 45,684,359 
+
+[71] May 23:   actual: 249,974,912,    official: 24,997,460,   infectious: 191,286,   dead: 45,684,739 
+
+[72] May 24:   actual: 249,974,917,    official: 24,997,460,   infectious: 125,282,   dead: 45,684,996 
+
+[73] May 25:   actual: 249,974,920,    official: 24,997,460,   infectious: 82,927,   dead: 45,685,170 
+
+[74] May 26:   actual: 249,974,922,    official: 24,997,460,   infectious: 55,334,   dead: 45,685,288 
+
+[75] May 27:   actual: 249,974,924,    official: 24,997,460,   infectious: 37,089,   dead: 45,685,367 
+
+[76] May 28:   actual: 249,974,925,    official: 24,997,460,   infectious: 24,877,   dead: 45,685,419 
+
+[77] May 29:   actual: 249,974,926,    official: 24,997,460,   infectious: 16,635,   dead: 45,685,453 
+
+[78] May 30:   actual: 249,974,926,    official: 24,997,460,   infectious: 11,044,   dead: 45,685,475 
+
+[79] May 31:   actual: 249,974,926,    official: 24,997,460,   infectious: 7,252,   dead: 45,685,488 
+
+[80] Jun  1:   actual: 249,974,926,    official: 24,997,460,   infectious: 4,699,   dead: 45,685,496 
+
+As of Jun  1 evening:
+ 33,384,799:  Total avoidable deaths from severely ills denied Hosp.BEDS
+ 12,102,771:  Total avoidable deaths from critically ills denied H.VENTS 
+    197,926:  Total deaths of those given proper hospital treatment: 
+---------------
+ 45,685,496:  GRAND TOTAL DEATHS
+
+
+
+
+Starting Run:
+USA Idyllic Best-Case Scenario:  0.00 at March 25
+[0] Mar 13:   actual: 21,957,    official: 2,195,   infectious: 12,326,   dead: 4 
+
+[1] Mar 14:   actual: 28,818,    official: 2,881,   infectious: 16,338,   dead: 9 
+
+[2] Mar 15:   actual: 37,787,    official: 3,777,   infectious: 21,357,   dead: 14 
+
+[3] Mar 16:   actual: 49,612,    official: 4,959,   infectious: 28,159,   dead: 46 
+
+[4] Mar 17:   actual: 65,173,    official: 6,515,   infectious: 37,058,   dead: 74 
+
+[5] Mar 18:   actual: 85,646,    official: 8,562,   infectious: 48,759,   dead: 110 
+
+[6] Mar 19:   actual: 112,465,    official: 11,243,   infectious: 63,876,   dead: 144 
+
+[7] Mar 20:   actual: 147,704,    official: 14,766,   infectious: 83,941,   dead: 195 
+
+[8] Mar 21:   actual: 193,984,    official: 19,394,   infectious: 110,255,   dead: 207 
+
+[9] Mar 22:   actual: 254,827,    official: 25,478,   infectious: 144,976,   dead: 211 
+
+[10] Mar 23:   actual: 334,704,    official: 33,465,   infectious: 190,377,   dead: 216 
+
+[11] Mar 24:   actual: 439,606,    official: 43,955,   infectious: 250,101,   dead: 221 
+
+[12] Mar 25:   actual: 439,606,    official: 43,955,   infectious: 328,501,   dead: 253 
+
+[13] Mar 26:   actual: 439,606,    official: 43,955,   infectious: 430,667,   dead: 281 
+
+[14] Mar 27:   actual: 439,606,    official: 43,955,   infectious: 427,851,   dead: 317 
+
+[15] Mar 28:   actual: 439,606,    official: 43,955,   infectious: 424,174,   dead: 351 
+
+[16] Mar 29:   actual: 439,606,    official: 43,955,   infectious: 419,444,   dead: 402 
+
+[17] Mar 30:   actual: 439,606,    official: 43,955,   infectious: 411,587,   dead: 531 
+
+[18] Mar 31:   actual: 439,606,    official: 43,955,   infectious: 402,196,   dead: 702 
+
+[19] Apr  1:   actual: 439,606,    official: 43,955,   infectious: 389,882,   dead: 926 
+
+[20] Apr  2:   actual: 439,606,    official: 43,955,   infectious: 374,546,   dead: 1,221 
+
+[21] Apr  3:   actual: 439,606,    official: 43,955,   infectious: 354,007,   dead: 1,610 
+
+[22] Apr  4:   actual: 439,606,    official: 43,955,   infectious: 334,129,   dead: 2,121 
+
+[23] Apr  5:   actual: 439,606,    official: 43,955,   infectious: 328,640,   dead: 2,791 
+
+[24] Apr  6:   actual: 439,606,    official: 43,955,   infectious: 321,464,   dead: 3,671 
+
+[25] Apr  7:   actual: 439,606,    official: 43,955,   infectious: 312,003,   dead: 4,828 
+
+[26] Apr  8:   actual: 439,606,    official: 43,955,   infectious: 299,554,   dead: 6,349 
+
+[27] Apr  9:   actual: 439,606,    official: 43,955,   infectious: 283,174,   dead: 8,345 
+
+[28] Apr 10:   actual: 439,606,    official: 43,955,   infectious: 261,717,   dead: 10,967 
+
+[29] Apr 11:   actual: 439,606,    official: 43,955,   infectious: 233,524,   dead: 10,967 
+
+[30] Apr 12:   actual: 439,606,    official: 43,955,   infectious: 196,500,   dead: 10,967 
+
+[31] Apr 13:   actual: 439,606,    official: 43,955,   infectious: 147,825,   dead: 10,967 
+
+[32] Apr 14:   actual: 439,606,    official: 43,955,   infectious: 83,922,   dead: 10,967 
+
+[33] Apr 15:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[34] Apr 16:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[35] Apr 17:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[36] Apr 18:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[37] Apr 19:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[38] Apr 20:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[39] Apr 21:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[40] Apr 22:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[41] Apr 23:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[42] Apr 24:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[43] Apr 25:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[44] Apr 26:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[45] Apr 27:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[46] Apr 28:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[47] Apr 29:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+[48] Apr 30:   actual: 439,606,    official: 43,955,   infectious: 0,   dead: 10,967 
+
+As of Apr 30 evening:
+          0:  Total avoidable deaths from severely ills denied Hosp.BEDS
+          0:  Total avoidable deaths from critically ills denied H.VENTS 
+     10,967:  Total deaths of those given proper hospital treatment: 
+---------------
+     10,967:  GRAND TOTAL DEATHS
+
+
+
+
+Starting Run:
+USA Self-Isolation Scenario:  0.20 at March 25
+[0] Mar 13:   actual: 21,957,    official: 2,195,   infectious: 12,326,   dead: 4 
+
+[1] Mar 14:   actual: 28,818,    official: 2,881,   infectious: 16,338,   dead: 9 
+
+[2] Mar 15:   actual: 37,787,    official: 3,777,   infectious: 21,357,   dead: 14 
+
+[3] Mar 16:   actual: 49,612,    official: 4,959,   infectious: 28,159,   dead: 46 
+
+[4] Mar 17:   actual: 65,173,    official: 6,515,   infectious: 37,058,   dead: 74 
+
+[5] Mar 18:   actual: 85,646,    official: 8,562,   infectious: 48,759,   dead: 110 
+
+[6] Mar 19:   actual: 112,465,    official: 11,243,   infectious: 63,876,   dead: 144 
+
+[7] Mar 20:   actual: 147,704,    official: 14,766,   infectious: 83,941,   dead: 195 
+
+[8] Mar 21:   actual: 193,984,    official: 19,394,   infectious: 110,255,   dead: 207 
+
+[9] Mar 22:   actual: 254,827,    official: 25,478,   infectious: 144,976,   dead: 211 
+
+[10] Mar 23:   actual: 334,704,    official: 33,465,   infectious: 190,377,   dead: 216 
+
+[11] Mar 24:   actual: 439,606,    official: 43,955,   infectious: 250,101,   dead: 221 
+
+[12] Mar 25:   actual: 505,191,    official: 50,513,   infectious: 328,501,   dead: 253 
+
+[13] Mar 26:   actual: 591,150,    official: 59,108,   infectious: 430,667,   dead: 281 
+
+[14] Mar 27:   actual: 689,604,    official: 68,953,   infectious: 493,436,   dead: 317 
+
+[15] Mar 28:   actual: 804,430,    official: 80,435,   infectious: 575,718,   dead: 351 
+
+[16] Mar 29:   actual: 937,888,    official: 93,780,   infectious: 669,442,   dead: 402 
+
+[17] Mar 30:   actual: 1,092,588,    official: 109,250,   infectious: 776,411,   dead: 531 
+
+[18] Mar 31:   actual: 1,271,897,    official: 127,180,   infectious: 900,478,   dead: 702 
+
+[19] Apr  1:   actual: 1,479,409,    official: 147,931,   infectious: 1,042,864,   dead: 926 
+
+[20] Apr  2:   actual: 1,719,348,    official: 171,924,   infectious: 1,206,837,   dead: 1,221 
+
+[21] Apr  3:   actual: 1,996,193,    official: 199,608,   infectious: 1,393,810,   dead: 1,610 
+
+[22] Apr  4:   actual: 2,315,739,    official: 231,562,   infectious: 1,610,592,   dead: 2,121 
+
+[23] Apr  5:   actual: 2,685,842,    official: 268,572,   infectious: 1,867,814,   dead: 2,791 
+
+[24] Apr  6:   actual: 3,113,670,    official: 311,354,   infectious: 2,162,369,   dead: 3,671 
+
+[25] Apr  7:   actual: 3,607,937,    official: 360,780,   infectious: 2,502,502,   dead: 4,828 
+
+[26] Apr  8:   actual: 4,178,381,    official: 417,824,   infectious: 2,893,986,   dead: 6,349 
+
+[27] Apr  9:   actual: 4,836,027,    official: 483,588,   infectious: 3,344,120,   dead: 8,345 
+
+[28] Apr 10:   actual: 5,593,277,    official: 559,313,   infectious: 3,860,937,   dead: 10,967 
+
+[29] Apr 11:   actual: 6,463,975,    official: 646,382,   infectious: 4,453,119,   dead: 12,606 
+
+[30] Apr 12:   actual: 7,463,490,    official: 746,333,   infectious: 5,130,223,   dead: 14,754 
+
+[31] Apr 13:   actual: 8,608,731,    official: 860,857,   infectious: 5,902,414,   dead: 17,215 
+
+[32] Apr 14:   actual: 9,918,138,    official: 991,797,   infectious: 6,780,523,   dead: 20,085 
+
+[33] Apr 15:   actual: 11,411,525,    official: 1,141,135,   infectious: 7,775,406,   dead: 23,421 
+
+[34] Apr 16:   actual: 13,120,856,    official: 1,312,068,   infectious: 8,955,438,   dead: 27,288 
+
+[35] Apr 17:   actual: 15,071,067,    official: 1,507,089,   infectious: 10,291,169,   dead: 31,770 
+
+
+RAN OUT OF VENTILATORS
+[36] Apr 18:   actual: 17,292,381,    official: 1,729,220,   infectious: 11,819,074,   dead: 36,957 
+
+[37] Apr 19:   actual: 19,817,495,    official: 1,981,731,   infectious: 13,563,768,   dead: 42,955 
+
+[38] Apr 20:   actual: 22,685,323,    official: 2,268,513,   infectious: 15,573,665,   dead: 49,876 
+
+[39] Apr 21:   actual: 25,932,191,    official: 2,593,199,   infectious: 17,854,479,   dead: 57,864 
+
+[40] Apr 22:   actual: 29,595,331,    official: 2,959,513,   infectious: 20,435,446,   dead: 71,909 
+
+[41] Apr 23:   actual: 33,708,123,    official: 3,370,792,   infectious: 23,325,229,   dead: 114,463 
+
+
+RAN OUT OF HOSPITAL BEDS
+[42] Apr 24:   actual: 38,306,890,    official: 3,830,668,   infectious: 26,577,319,   dead: 163,400 
+
+[43] Apr 25:   actual: 43,427,920,    official: 4,342,771,   infectious: 30,238,523,   dead: 219,620 
+
+[44] Apr 26:   actual: 49,120,264,    official: 4,912,005,   infectious: 34,445,264,   dead: 281,638 
+
+[45] Apr 27:   actual: 55,406,330,    official: 5,540,611,   infectious: 39,115,857,   dead: 339,379 
+
+[46] Apr 28:   actual: 62,303,045,    official: 6,230,282,   infectious: 44,302,025,   dead: 405,116 
+
+[47] Apr 29:   actual: 69,811,586,    official: 6,981,136,   infectious: 50,004,417,   dead: 480,316 
+
+[48] Apr 30:   actual: 77,913,722,    official: 7,791,349,   infectious: 56,206,003,   dead: 589,089 
+
+[49] May  1:   actual: 86,556,019,    official: 8,655,578,   infectious: 62,775,900,   dead: 852,381 
+
+[50] May  2:   actual: 95,682,919,    official: 9,568,268,   infectious: 69,801,441,   dead: 1,152,192 
+
+[51] May  3:   actual: 105,217,487,    official: 10,521,724,   infectious: 77,231,959,   dead: 1,492,565 
+
+[52] May  4:   actual: 115,074,354,    official: 11,507,410,   infectious: 85,100,636,   dead: 1,876,870 
+
+[53] May  5:   actual: 125,134,450,    official: 12,513,419,   infectious: 93,200,373,   dead: 2,304,292 
+
+[54] May  6:   actual: 135,266,515,    official: 13,526,625,   infectious: 101,429,746,   dead: 2,785,679 
+
+[55] May  7:   actual: 145,330,164,    official: 14,532,989,   infectious: 109,641,588,   dead: 3,325,692 
+
+[56] May  8:   actual: 155,181,743,    official: 15,518,146,   infectious: 117,650,642,   dead: 3,950,653 
+
+[57] May  9:   actual: 164,676,900,    official: 16,467,661,   infectious: 125,175,749,   dead: 4,779,073 
+
+[58] May 10:   actual: 173,697,851,    official: 17,369,756,   infectious: 132,158,690,   dead: 5,698,780 
+
+[59] May 11:   actual: 182,148,601,    official: 18,214,831,   infectious: 138,442,195,   dead: 6,714,401 
+
+[60] May 12:   actual: 189,963,850,    official: 18,996,355,   infectious: 143,977,302,   dead: 7,830,943 
+
+[61] May 13:   actual: 197,097,396,    official: 19,709,709,   infectious: 148,526,059,   dead: 9,045,979 
+
+[62] May 14:   actual: 203,530,221,    official: 20,352,991,   infectious: 151,996,887,   dead: 10,359,866 
+
+[63] May 15:   actual: 209,267,092,    official: 20,926,678,   infectious: 154,317,267,   dead: 11,767,389 
+
+[64] May 16:   actual: 214,331,826,    official: 21,433,151,   infectious: 155,425,122,   dead: 13,280,322 
+
+[65] May 17:   actual: 218,760,374,    official: 21,876,005,   infectious: 155,199,550,   dead: 14,994,617 
+
+[66] May 18:   actual: 222,602,882,    official: 22,260,255,   infectious: 153,751,373,   dead: 16,780,005 
+
+[67] May 19:   actual: 225,915,448,    official: 22,591,511,   infectious: 151,136,607,   dead: 18,616,603 
+
+[68] May 20:   actual: 228,757,760,    official: 22,875,742,   infectious: 147,517,371,   dead: 20,484,092 
+
+[69] May 21:   actual: 231,185,571,    official: 23,118,523,   infectious: 142,864,603,   dead: 22,352,504 
+
+[70] May 22:   actual: 233,251,865,    official: 23,325,152,   infectious: 137,281,228,   dead: 24,194,277 
+
+[71] May 23:   actual: 235,005,622,    official: 23,500,527,   infectious: 130,891,941,   dead: 25,979,867 
+
+[72] May 24:   actual: 236,490,668,    official: 23,649,031,   infectious: 123,800,206,   dead: 27,700,195 
+
+[73] May 25:   actual: 237,744,691,    official: 23,774,433,   infectious: 116,033,034,   dead: 29,437,920 
+
+[74] May 26:   actual: 238,801,919,    official: 23,880,155,   infectious: 107,833,721,   dead: 31,058,378 
+
+[75] May 27:   actual: 239,692,124,    official: 23,969,175,   infectious: 99,370,227,   dead: 32,544,461 
+
+[76] May 28:   actual: 240,441,695,    official: 24,044,132,   infectious: 90,897,811,   dead: 33,885,356 
+
+[77] May 29:   actual: 241,072,192,    official: 24,107,181,   infectious: 82,454,118,   dead: 35,071,744 
+
+[78] May 30:   actual: 241,602,023,    official: 24,160,164,   infectious: 74,182,641,   dead: 36,100,987 
+
+[79] May 31:   actual: 242,046,895,    official: 24,204,651,   infectious: 66,217,115,   dead: 36,973,588 
+
+[80] Jun  1:   actual: 242,420,029,    official: 24,241,964,   infectious: 58,645,949,   dead: 37,713,384 
+
+[81] Jun  2:   actual: 242,732,058,    official: 24,273,166,   infectious: 51,456,165,   dead: 38,435,160 
+
+[82] Jun  3:   actual: 242,992,555,    official: 24,299,215,   infectious: 44,802,484,   dead: 39,035,196 
+
+[83] Jun  4:   actual: 243,209,723,    official: 24,320,931,   infectious: 38,738,872,   dead: 39,525,067 
+
+[84] Jun  5:   actual: 243,391,022,    official: 24,339,060,   infectious: 33,374,726,   dead: 39,925,535 
+
+[85] Jun  6:   actual: 243,542,261,    official: 24,354,183,   infectious: 28,604,749,   dead: 40,232,918 
+
+
+HOSPITAL BEDS FINALLY AVAILABLE
+[86] Jun  7:   actual: 243,668,359,    official: 24,366,792,   infectious: 24,408,343,   dead: 40,455,168 
+
+[87] Jun  8:   actual: 243,773,489,    official: 24,377,305,   infectious: 20,754,957,   dead: 40,597,551 
+
+[88] Jun  9:   actual: 243,861,244,    official: 24,386,080,   infectious: 17,617,274,   dead: 40,680,310 
+
+[89] Jun 10:   actual: 243,934,173,    official: 24,393,372,   infectious: 14,850,201,   dead: 40,822,045 
+
+[90] Jun 11:   actual: 243,994,845,    official: 24,399,439,   infectious: 12,502,914,   dead: 40,915,372 
+
+[91] Jun 12:   actual: 244,045,411,    official: 24,404,495,   infectious: 10,525,499,   dead: 40,966,204 
+
+[92] Jun 13:   actual: 244,087,624,    official: 24,408,716,   infectious: 8,861,357,   dead: 40,989,638 
+
+
+VENTILATORS FINALLY AVAILABLE
+[93] Jun 14:   actual: 244,122,853,    official: 24,412,238,   infectious: 7,448,095,   dead: 41,009,437 
+
+[94] Jun 15:   actual: 244,152,246,    official: 24,415,177,   infectious: 6,251,595,   dead: 41,026,353 
+
+[95] Jun 16:   actual: 244,176,776,    official: 24,417,630,   infectious: 5,243,435,   dead: 41,039,676 
+
+[96] Jun 17:   actual: 244,197,255,    official: 24,419,677,   infectious: 4,395,968,   dead: 41,044,203 
+
+[97] Jun 18:   actual: 244,214,358,    official: 24,421,387,   infectious: 3,684,163,   dead: 41,047,042 
+
+[98] Jun 19:   actual: 244,228,636,    official: 24,422,814,   infectious: 3,084,828,   dead: 41,050,324 
+
+[99] Jun 20:   actual: 244,240,551,    official: 24,424,005,   infectious: 2,580,723,   dead: 41,054,128 
+
+[100] Jun 21:   actual: 244,250,490,    official: 24,424,998,   infectious: 2,157,163,   dead: 41,058,513 
+
+[101] Jun 22:   actual: 244,258,776,    official: 24,425,826,   infectious: 1,801,551,   dead: 41,063,045 
+
+[102] Jun 23:   actual: 244,265,681,    official: 24,426,516,   infectious: 1,503,288,   dead: 41,066,825 
+
+[103] Jun 24:   actual: 244,271,433,    official: 24,427,091,   infectious: 1,253,858,   dead: 41,069,977 
+
+[104] Jun 25:   actual: 244,276,225,    official: 24,427,570,   infectious: 1,045,611,   dead: 41,072,605 
+
+[105] Jun 26:   actual: 244,280,218,    official: 24,427,969,   infectious: 871,994,   dead: 41,074,798 
+
+[106] Jun 27:   actual: 244,283,545,    official: 24,428,301,   infectious: 727,043,   dead: 41,076,621 
+
+[107] Jun 28:   actual: 244,286,317,    official: 24,428,578,   infectious: 606,117,   dead: 41,078,137 
+
+[108] Jun 29:   actual: 244,288,627,    official: 24,428,809,   infectious: 505,286,   dead: 41,079,401 
+
+[109] Jun 30:   actual: 244,290,552,    official: 24,429,001,   infectious: 421,217,   dead: 41,080,456 
+
+[110] Jul  1:   actual: 244,292,155,    official: 24,429,161,   infectious: 351,039,   dead: 41,081,336 
+
+As of Jul  1 evening:
+ 29,228,394:  Total avoidable deaths from severely ills denied Hosp.BEDS
+ 11,499,871:  Total avoidable deaths from critically ills denied H.VENTS 
+    353,071:  Total deaths of those given proper hospital treatment: 
+---------------
+ 41,081,336:  GRAND TOTAL DEATHS
+
+
+
+
+Starting Run:
+USA Inadequate 1:10 spread Lockdown Scenario:  0.10 at March 25
+[0] Mar 13:   actual: 21,957,    official: 2,195,   infectious: 12,326,   dead: 4 
+
+[1] Mar 14:   actual: 28,818,    official: 2,881,   infectious: 16,338,   dead: 9 
+
+[2] Mar 15:   actual: 37,787,    official: 3,777,   infectious: 21,357,   dead: 14 
+
+[3] Mar 16:   actual: 49,612,    official: 4,959,   infectious: 28,159,   dead: 46 
+
+[4] Mar 17:   actual: 65,173,    official: 6,515,   infectious: 37,058,   dead: 74 
+
+[5] Mar 18:   actual: 85,646,    official: 8,562,   infectious: 48,759,   dead: 110 
+
+[6] Mar 19:   actual: 112,465,    official: 11,243,   infectious: 63,876,   dead: 144 
+
+[7] Mar 20:   actual: 147,704,    official: 14,766,   infectious: 83,941,   dead: 195 
+
+[8] Mar 21:   actual: 193,984,    official: 19,394,   infectious: 110,255,   dead: 207 
+
+[9] Mar 22:   actual: 254,827,    official: 25,478,   infectious: 144,976,   dead: 211 
+
+[10] Mar 23:   actual: 334,704,    official: 33,465,   infectious: 190,377,   dead: 216 
+
+[11] Mar 24:   actual: 439,606,    official: 43,955,   infectious: 250,101,   dead: 221 
+
+[12] Mar 25:   actual: 472,398,    official: 47,234,   infectious: 328,501,   dead: 253 
+
+[13] Mar 26:   actual: 515,383,    official: 51,532,   infectious: 430,667,   dead: 281 
+
+[14] Mar 27:   actual: 561,352,    official: 56,128,   infectious: 460,643,   dead: 317 
+
+[15] Mar 28:   actual: 611,235,    official: 61,116,   infectious: 499,951,   dead: 351 
+
+[16] Mar 29:   actual: 665,222,    official: 66,514,   infectious: 541,190,   dead: 402 
+
+[17] Mar 30:   actual: 723,388,    official: 72,330,   infectious: 583,216,   dead: 531 
+
+[18] Mar 31:   actual: 785,988,    official: 78,590,   infectious: 627,812,   dead: 702 
+
+[19] Apr  1:   actual: 853,143,    official: 85,305,   infectious: 673,664,   dead: 926 
+
+[20] Apr  2:   actual: 924,990,    official: 92,489,   infectious: 720,928,   dead: 1,221 
+
+[21] Apr  3:   actual: 1,001,460,    official: 100,136,   infectious: 767,544,   dead: 1,610 
+
+[22] Apr  4:   actual: 1,082,920,    official: 108,282,   infectious: 817,874,   dead: 2,121 
+
+[23] Apr  5:   actual: 1,170,717,    official: 117,061,   infectious: 881,788,   dead: 2,791 
+
+[24] Apr  6:   actual: 1,265,006,    official: 126,489,   infectious: 947,327,   dead: 3,671 
+
+[25] Apr  7:   actual: 1,366,119,    official: 136,600,   infectious: 1,016,274,   dead: 4,828 
+
+[26] Apr  8:   actual: 1,474,318,    official: 147,419,   infectious: 1,087,933,   dead: 6,349 
+
+[27] Apr  9:   actual: 1,589,799,    official: 158,967,   infectious: 1,161,660,   dead: 8,345 
+
+[28] Apr 10:   actual: 1,712,667,    official: 171,253,   infectious: 1,236,548,   dead: 10,967 
+
+[29] Apr 11:   actual: 1,842,878,    official: 184,274,   infectious: 1,311,089,   dead: 11,786 
+
+[30] Apr 12:   actual: 1,980,185,    official: 198,004,   infectious: 1,383,268,   dead: 12,860 
+
+[31] Apr 13:   actual: 2,124,057,    official: 212,391,   infectious: 1,450,204,   dead: 14,009 
+
+[32] Apr 14:   actual: 2,273,582,    official: 227,343,   infectious: 1,508,065,   dead: 15,256 
+
+[33] Apr 15:   actual: 2,427,312,    official: 242,716,   infectious: 1,551,407,   dead: 16,605 
+
+[34] Apr 16:   actual: 2,591,385,    official: 259,123,   infectious: 1,656,814,   dead: 18,059 
+
+[35] Apr 17:   actual: 2,765,260,    official: 276,510,   infectious: 1,756,957,   dead: 19,624 
+
+[36] Apr 18:   actual: 2,949,566,    official: 294,940,   infectious: 1,863,679,   dead: 21,302 
+
+[37] Apr 19:   actual: 3,144,799,    official: 314,463,   infectious: 1,975,644,   dead: 23,098 
+
+[38] Apr 20:   actual: 3,351,495,    official: 335,132,   infectious: 2,093,295,   dead: 25,009 
+
+[39] Apr 21:   actual: 3,570,228,    official: 357,005,   infectious: 2,217,054,   dead: 27,045 
+
+[40] Apr 22:   actual: 3,801,603,    official: 380,142,   infectious: 2,347,274,   dead: 29,239 
+
+[41] Apr 23:   actual: 4,046,274,    official: 404,609,   infectious: 2,484,493,   dead: 31,596 
+
+[42] Apr 24:   actual: 4,304,952,    official: 430,476,   infectious: 2,629,334,   dead: 34,123 
+
+[43] Apr 25:   actual: 4,578,432,    official: 457,824,   infectious: 2,782,714,   dead: 36,827 
+
+[44] Apr 26:   actual: 4,867,535,    official: 486,734,   infectious: 2,944,962,   dead: 39,714 
+
+[45] Apr 27:   actual: 5,172,960,    official: 517,276,   infectious: 3,114,900,   dead: 42,785 
+
+[46] Apr 28:   actual: 5,495,473,    official: 549,527,   infectious: 3,293,275,   dead: 46,040 
+
+[47] Apr 29:   actual: 5,835,863,    official: 583,566,   infectious: 3,480,402,   dead: 49,472 
+
+[48] Apr 30:   actual: 6,194,954,    official: 619,475,   infectious: 3,676,736,   dead: 53,068 
+
+[49] May  1:   actual: 6,573,613,    official: 657,340,   infectious: 3,882,801,   dead: 56,806 
+
+[50] May  2:   actual: 6,972,756,    official: 697,254,   infectious: 4,099,220,   dead: 60,649 
+
+[51] May  3:   actual: 7,393,365,    official: 739,314,   infectious: 4,326,770,   dead: 64,750 
+
+[52] May  4:   actual: 7,836,504,    official: 783,627,   infectious: 4,566,434,   dead: 69,096 
+
+[53] May  5:   actual: 8,303,344,    official: 830,311,   infectious: 4,819,469,   dead: 73,703 
+
+[54] May  6:   actual: 8,795,198,    official: 879,496,   infectious: 5,087,510,   dead: 78,583 
+
+[55] May  7:   actual: 9,313,569,    official: 931,333,   infectious: 5,372,729,   dead: 83,750 
+
+
+RAN OUT OF VENTILATORS
+[56] May  8:   actual: 9,859,579,    official: 985,934,   infectious: 5,671,385,   dead: 89,218 
+
+[57] May  9:   actual: 10,434,587,    official: 1,043,434,   infectious: 5,986,166,   dead: 95,002 
+
+[58] May 10:   actual: 11,040,915,    official: 1,104,066,   infectious: 6,327,376,   dead: 101,118 
+
+[59] May 11:   actual: 11,679,944,    official: 1,167,968,   infectious: 6,685,547,   dead: 107,584 
+
+[60] May 12:   actual: 12,353,100,    official: 1,235,283,   infectious: 7,061,466,   dead: 115,327 
+
+[61] May 13:   actual: 13,060,906,    official: 1,306,063,   infectious: 7,445,984,   dead: 134,212 
+
+[62] May 14:   actual: 13,804,900,    official: 1,380,462,   infectious: 7,850,054,   dead: 153,993 
+
+[63] May 15:   actual: 14,586,556,    official: 1,458,627,   infectious: 8,273,410,   dead: 174,665 
+
+[64] May 16:   actual: 15,407,369,    official: 1,540,708,   infectious: 8,716,713,   dead: 195,757 
+
+[65] May 17:   actual: 16,269,124,    official: 1,626,883,   infectious: 9,183,523,   dead: 212,313 
+
+[66] May 18:   actual: 17,173,884,    official: 1,717,359,   infectious: 9,677,365,   dead: 229,416 
+
+[67] May 19:   actual: 18,123,296,    official: 1,812,300,   infectious: 10,194,429,   dead: 246,996 
+
+[68] May 20:   actual: 19,118,786,    official: 1,911,849,   infectious: 10,732,964,   dead: 268,035 
+
+[69] May 21:   actual: 20,161,509,    official: 2,016,121,   infectious: 11,290,690,   dead: 295,486 
+
+[70] May 22:   actual: 21,253,059,    official: 2,125,276,   infectious: 11,873,016,   dead: 324,510 
+
+[71] May 23:   actual: 22,394,969,    official: 2,239,467,   infectious: 12,480,060,   dead: 355,248 
+
+[72] May 24:   actual: 23,588,757,    official: 2,358,845,   infectious: 13,112,500,   dead: 386,290 
+
+[73] May 25:   actual: 24,836,035,    official: 2,483,572,   infectious: 13,772,260,   dead: 416,230 
+
+[74] May 26:   actual: 26,138,496,    official: 2,613,818,   infectious: 14,461,255,   dead: 447,510 
+
+[75] May 27:   actual: 27,497,555,    official: 2,749,723,   infectious: 15,177,454,   dead: 480,148 
+
+[76] May 28:   actual: 28,914,421,    official: 2,891,409,   infectious: 15,919,665,   dead: 515,669 
+
+[77] May 29:   actual: 30,390,058,    official: 3,038,972,   infectious: 16,686,265,   dead: 555,600 
+
+
+RAN OUT OF HOSPITAL BEDS
+[78] May 30:   actual: 31,925,543,    official: 3,192,520,   infectious: 17,479,690,   dead: 597,569 
+
+[79] May 31:   actual: 33,523,101,    official: 3,352,275,   infectious: 18,314,368,   dead: 641,662 
+
+[80] Jun  1:   actual: 35,186,491,    official: 3,518,614,   infectious: 19,209,783,   dead: 687,219 
+
+[81] Jun  2:   actual: 36,916,513,    official: 3,691,616,   infectious: 20,133,997,   dead: 733,562 
+
+[82] Jun  3:   actual: 38,714,094,    official: 3,871,374,   infectious: 21,090,106,   dead: 781,957 
+
+[83] Jun  4:   actual: 40,579,917,    official: 4,057,956,   infectious: 22,076,994,   dead: 832,464 
+
+[84] Jun  5:   actual: 42,513,152,    official: 4,251,279,   infectious: 23,078,437,   dead: 900,734 
+
+[85] Jun  6:   actual: 44,511,027,    official: 4,451,066,   infectious: 24,072,306,   dead: 1,008,116 
+
+[86] Jun  7:   actual: 46,573,397,    official: 4,657,303,   infectious: 25,091,005,   dead: 1,119,972 
+
+[87] Jun  8:   actual: 48,700,809,    official: 4,870,044,   infectious: 26,144,715,   dead: 1,236,407 
+
+[88] Jun  9:   actual: 50,895,124,    official: 5,089,475,   infectious: 27,251,916,   dead: 1,357,147 
+
+[89] Jun 10:   actual: 53,155,234,    official: 5,315,486,   infectious: 28,378,389,   dead: 1,481,887 
+
+[90] Jun 11:   actual: 55,479,983,    official: 5,547,960,   infectious: 29,525,162,   dead: 1,611,067 
+
+[91] Jun 12:   actual: 57,867,859,    official: 5,786,747,   infectious: 30,689,336,   dead: 1,744,705 
+
+[92] Jun 13:   actual: 60,315,847,    official: 6,031,545,   infectious: 31,852,921,   dead: 1,898,061 
+
+[93] Jun 14:   actual: 62,819,057,    official: 6,281,866,   infectious: 32,991,814,   dead: 2,092,173 
+
+[94] Jun 15:   actual: 65,374,878,    official: 6,537,448,   infectious: 34,135,697,   dead: 2,292,961 
+
+[95] Jun 16:   actual: 67,981,252,    official: 6,798,085,   infectious: 35,292,784,   dead: 2,500,567 
+
+[96] Jun 17:   actual: 70,637,203,    official: 7,063,680,   infectious: 36,479,089,   dead: 2,715,186 
+
+[97] Jun 18:   actual: 73,338,983,    official: 7,333,858,   infectious: 37,658,034,   dead: 2,936,445 
+
+[98] Jun 19:   actual: 76,082,742,    official: 7,608,233,   infectious: 38,828,025,   dead: 3,164,250 
+
+[99] Jun 20:   actual: 78,864,316,    official: 7,886,390,   infectious: 39,984,159,   dead: 3,398,436 
+
+[100] Jun 21:   actual: 81,678,279,    official: 8,167,786,   infectious: 41,107,192,   dead: 3,653,693 
+
+[101] Jun 22:   actual: 84,517,905,    official: 8,451,748,   infectious: 42,175,568,   dead: 3,950,225 
+
+[102] Jun 23:   actual: 87,378,071,    official: 8,737,764,   infectious: 43,209,597,   dead: 4,253,938 
+
+[103] Jun 24:   actual: 90,254,283,    official: 9,025,385,   infectious: 44,216,234,   dead: 4,565,070 
+
+[104] Jun 25:   actual: 93,142,808,    official: 9,314,237,   infectious: 45,205,048,   dead: 4,888,425 
+
+[105] Jun 26:   actual: 96,037,954,    official: 9,603,751,   infectious: 46,143,029,   dead: 5,218,181 
+
+[106] Jun 27:   actual: 98,934,147,    official: 9,893,370,   infectious: 47,027,716,   dead: 5,553,691 
+
+[107] Jun 28:   actual: 101,825,899,    official: 10,182,545,   infectious: 47,855,816,   dead: 5,894,087 
+
+[108] Jun 29:   actual: 104,706,946,    official: 10,470,649,   infectious: 48,609,146,   dead: 6,251,017 
+
+[109] Jun 30:   actual: 107,570,134,    official: 10,756,967,   infectious: 49,265,744,   dead: 6,646,659 
+
+[110] Jul  1:   actual: 110,410,021,    official: 11,040,955,   infectious: 49,847,111,   dead: 7,046,492 
+
+[111] Jul  2:   actual: 113,221,956,    official: 11,322,148,   infectious: 50,360,621,   dead: 7,451,463 
+
+[112] Jul  3:   actual: 116,002,313,    official: 11,600,183,   infectious: 50,818,778,   dead: 7,864,855 
+
+[113] Jul  4:   actual: 118,746,079,    official: 11,874,559,   infectious: 51,190,557,   dead: 8,280,496 
+
+[114] Jul  5:   actual: 121,448,639,    official: 12,144,815,   infectious: 51,475,792,   dead: 8,697,214 
+
+[115] Jul  6:   actual: 124,105,753,    official: 12,410,526,   infectious: 51,674,166,   dead: 9,113,010 
+
+[116] Jul  7:   actual: 126,712,813,    official: 12,671,232,   infectious: 51,770,842,   dead: 9,539,526 
+
+[117] Jul  8:   actual: 129,264,681,    official: 12,926,418,   infectious: 51,746,422,   dead: 9,998,436 
+
+[118] Jul  9:   actual: 131,758,011,    official: 13,175,751,   infectious: 51,628,008,   dead: 10,454,822 
+
+[119] Jul 10:   actual: 134,190,375,    official: 13,418,987,   infectious: 51,427,665,   dead: 10,909,072 
+
+[120] Jul 11:   actual: 136,560,482,    official: 13,655,997,   infectious: 51,163,863,   dead: 11,362,783 
+
+[121] Jul 12:   actual: 138,865,980,    official: 13,886,546,   infectious: 50,808,964,   dead: 11,810,754 
+
+[122] Jul 13:   actual: 141,104,990,    official: 14,110,447,   infectious: 50,367,333,   dead: 12,251,498 
+
+[123] Jul 14:   actual: 143,276,054,    official: 14,327,553,   infectious: 49,843,045,   dead: 12,682,868 
+
+[124] Jul 15:   actual: 145,377,480,    official: 14,537,695,   infectious: 49,225,738,   dead: 13,116,975 
+
+[125] Jul 16:   actual: 147,407,150,    official: 14,740,662,   infectious: 48,499,846,   dead: 13,574,785 
+
+[126] Jul 17:   actual: 149,364,573,    official: 14,936,404,   infectious: 47,698,813,   dead: 14,021,424 
+
+[127] Jul 18:   actual: 151,250,066,    official: 15,124,953,   infectious: 46,839,694,   dead: 14,456,885 
+
+[128] Jul 19:   actual: 153,064,936,    official: 15,306,440,   infectious: 45,946,106,   dead: 14,881,883 
+
+[129] Jul 20:   actual: 154,809,487,    official: 15,480,895,   infectious: 44,992,783,   dead: 15,292,672 
+
+[130] Jul 21:   actual: 156,484,346,    official: 15,648,380,   infectious: 43,987,018,   dead: 15,688,008 
+
+[131] Jul 22:   actual: 158,090,407,    official: 15,808,986,   infectious: 42,935,620,   dead: 16,066,263 
+
+[132] Jul 23:   actual: 159,628,246,    official: 15,962,769,   infectious: 41,830,214,   dead: 16,440,414 
+
+[133] Jul 24:   actual: 161,097,933,    official: 16,109,737,   infectious: 40,656,692,   dead: 16,831,144 
+
+[134] Jul 25:   actual: 162,500,848,    official: 16,250,028,   infectious: 39,451,124,   dead: 17,204,060 
+
+[135] Jul 26:   actual: 163,838,960,    official: 16,383,839,   infectious: 38,232,139,   dead: 17,559,224 
+
+[136] Jul 27:   actual: 165,114,993,    official: 16,511,442,   infectious: 37,024,641,   dead: 17,897,162 
+
+[137] Jul 28:   actual: 166,330,632,    official: 16,633,005,   infectious: 35,802,530,   dead: 18,215,644 
+
+[138] Jul 29:   actual: 167,487,700,    official: 16,748,711,   infectious: 34,572,623,   dead: 18,513,972 
+
+[139] Jul 30:   actual: 168,588,115,    official: 16,858,752,   infectious: 33,340,949,   dead: 18,791,278 
+
+[140] Jul 31:   actual: 169,633,372,    official: 16,963,277,   infectious: 32,097,792,   dead: 19,061,443 
+
+[141] Aug  1:   actual: 170,624,366,    official: 17,062,376,   infectious: 30,827,275,   dead: 19,345,267 
+
+[142] Aug  2:   actual: 171,563,048,    official: 17,156,244,   infectious: 29,564,560,   dead: 19,608,931 
+
+[143] Aug  3:   actual: 172,451,800,    official: 17,245,119,   infectious: 28,326,953,   dead: 19,852,740 
+
+[144] Aug  4:   actual: 173,293,667,    official: 17,329,305,   infectious: 27,140,115,   dead: 20,077,300 
+
+[145] Aug  5:   actual: 174,090,567,    official: 17,408,995,   infectious: 25,972,432,   dead: 20,281,511 
+
+[146] Aug  6:   actual: 174,844,439,    official: 17,484,382,   infectious: 24,828,000,   dead: 20,465,380 
+
+[147] Aug  7:   actual: 175,557,147,    official: 17,555,652,   infectious: 23,707,761,   dead: 20,631,084 
+
+[148] Aug  8:   actual: 176,230,163,    official: 17,622,953,   infectious: 22,601,772,   dead: 20,790,569 
+
+[149] Aug  9:   actual: 176,864,324,    official: 17,686,369,   infectious: 21,491,213,   dead: 20,964,730 
+
+[150] Aug 10:   actual: 177,461,379,    official: 17,746,074,   infectious: 20,409,154,   dead: 21,119,977 
+
+[151] Aug 11:   actual: 178,023,447,    official: 17,802,280,   infectious: 19,371,343,   dead: 21,255,488 
+
+[152] Aug 12:   actual: 178,553,251,    official: 17,855,260,   infectious: 18,401,971,   dead: 21,373,132 
+
+[153] Aug 13:   actual: 179,052,390,    official: 17,905,173,   infectious: 17,465,433,   dead: 21,472,412 
+
+[154] Aug 14:   actual: 179,522,425,    official: 17,952,176,   infectious: 16,562,755,   dead: 21,554,281 
+
+
+HOSPITAL BEDS FINALLY AVAILABLE
+[155] Aug 15:   actual: 179,964,796,    official: 17,996,413,   infectious: 15,691,914,   dead: 21,621,918 
+
+[156] Aug 16:   actual: 180,380,855,    official: 18,038,018,   infectious: 14,851,778,   dead: 21,686,327 
+
+[157] Aug 17:   actual: 180,771,408,    official: 18,077,073,   infectious: 14,024,643,   dead: 21,768,381 
+
+[158] Aug 18:   actual: 181,138,109,    official: 18,113,743,   infectious: 13,242,411,   dead: 21,834,225 
+
+[159] Aug 19:   actual: 181,482,562,    official: 18,148,188,   infectious: 12,505,207,   dead: 21,882,621 
+
+[160] Aug 20:   actual: 181,806,390,    official: 18,180,570,   infectious: 11,815,542,   dead: 21,915,941 
+
+[161] Aug 21:   actual: 182,110,806,    official: 18,211,011,   infectious: 11,159,988,   dead: 21,943,661 
+
+[162] Aug 22:   actual: 182,396,868,    official: 18,239,617,   infectious: 10,534,147,   dead: 21,970,235 
+
+[163] Aug 23:   actual: 182,665,525,    official: 18,266,482,   infectious: 9,935,078,   dead: 21,998,596 
+
+[164] Aug 24:   actual: 182,917,781,    official: 18,291,707,   infectious: 9,365,773,   dead: 22,024,984 
+
+[165] Aug 25:   actual: 183,154,582,    official: 18,315,387,   infectious: 8,825,028,   dead: 22,049,650 
+
+[166] Aug 26:   actual: 183,376,801,    official: 18,337,608,   infectious: 8,310,916,   dead: 22,072,016 
+
+[167] Aug 27:   actual: 183,585,297,    official: 18,358,457,   infectious: 7,823,699,   dead: 22,090,751 
+
+[168] Aug 28:   actual: 183,780,948,    official: 18,378,022,   infectious: 7,364,749,   dead: 22,107,874 
+
+[169] Aug 29:   actual: 183,964,513,    official: 18,396,378,   infectious: 6,930,211,   dead: 22,123,245 
+
+[170] Aug 30:   actual: 184,136,688,    official: 18,413,595,   infectious: 6,518,269,   dead: 22,138,100 
+
+[171] Aug 31:   actual: 184,298,089,    official: 18,429,735,   infectious: 6,126,364,   dead: 22,154,794 
+
+[172] Sep  1:   actual: 184,449,380,    official: 18,444,864,   infectious: 5,756,706,   dead: 22,170,227 
+
+[173] Sep  2:   actual: 184,591,179,    official: 18,459,043,   infectious: 5,408,007,   dead: 22,184,543 
+
+[174] Sep  3:   actual: 184,724,049,    official: 18,472,330,   infectious: 5,078,427,   dead: 22,197,185 
+
+[175] Sep  4:   actual: 184,848,544,    official: 18,484,779,   infectious: 4,768,032,   dead: 22,207,080 
+
+[176] Sep  5:   actual: 184,965,234,    official: 18,496,448,   infectious: 4,477,633,   dead: 22,215,822 
+
+[177] Sep  6:   actual: 185,074,603,    official: 18,507,384,   infectious: 4,204,238,   dead: 22,223,339 
+
+[178] Sep  7:   actual: 185,177,085,    official: 18,517,632,   infectious: 3,946,159,   dead: 22,230,647 
+
+[179] Sep  8:   actual: 185,273,059,    official: 18,527,229,   infectious: 3,701,388,   dead: 22,239,431 
+
+
+VENTILATORS FINALLY AVAILABLE
+[180] Sep  9:   actual: 185,362,932,    official: 18,536,216,   infectious: 3,471,249,   dead: 22,247,385 
+
+[181] Sep 10:   actual: 185,447,081,    official: 18,544,630,   infectious: 3,254,679,   dead: 22,254,583 
+
+[182] Sep 11:   actual: 185,525,879,    official: 18,552,509,   infectious: 3,051,678,   dead: 22,260,566 
+
+[183] Sep 12:   actual: 185,599,676,    official: 18,559,888,   infectious: 2,861,482,   dead: 22,264,546 
+
+[184] Sep 13:   actual: 185,668,804,    official: 18,566,800,   infectious: 2,683,518,   dead: 22,267,684 
+
+[185] Sep 14:   actual: 185,733,553,    official: 18,573,274,   infectious: 2,516,234,   dead: 22,271,033 
+
+[186] Sep 15:   actual: 185,794,196,    official: 18,579,338,   infectious: 2,359,048,   dead: 22,274,603 
+
+[187] Sep 16:   actual: 185,850,990,    official: 18,585,017,   infectious: 2,211,385,   dead: 22,278,392 
+
+[188] Sep 17:   actual: 185,904,175,    official: 18,590,335,   infectious: 2,072,722,   dead: 22,282,427 
+
+[189] Sep 18:   actual: 185,953,979,    official: 18,595,315,   infectious: 1,942,548,   dead: 22,286,209 
+
+[190] Sep 19:   actual: 186,000,613,    official: 18,599,978,   infectious: 1,820,322,   dead: 22,289,753 
+
+[191] Sep 20:   actual: 186,044,276,    official: 18,604,344,   infectious: 1,705,586,   dead: 22,293,074 
+
+[192] Sep 21:   actual: 186,085,154,    official: 18,608,431,   infectious: 1,597,918,   dead: 22,296,186 
+
+[193] Sep 22:   actual: 186,123,425,    official: 18,612,258,   infectious: 1,496,952,   dead: 22,299,103 
+
+[194] Sep 23:   actual: 186,159,254,    official: 18,615,840,   infectious: 1,402,271,   dead: 22,301,837 
+
+[195] Sep 24:   actual: 186,192,796,    official: 18,619,194,   infectious: 1,313,495,   dead: 22,304,399 
+
+[196] Sep 25:   actual: 186,224,196,    official: 18,622,334,   infectious: 1,230,283,   dead: 22,306,798 
+
+[197] Sep 26:   actual: 186,253,591,    official: 18,625,273,   infectious: 1,152,293,   dead: 22,309,044 
+
+[198] Sep 27:   actual: 186,281,108,    official: 18,628,024,   infectious: 1,079,162,   dead: 22,311,147 
+
+[199] Sep 28:   actual: 186,306,866,    official: 18,630,599,   infectious: 1,010,594,   dead: 22,313,116 
+
+[200] Sep 29:   actual: 186,330,976,    official: 18,633,010,   infectious: 946,324,   dead: 22,314,960 
+
+[201] Sep 30:   actual: 186,353,543,    official: 18,635,266,   infectious: 886,124,   dead: 22,316,688 
+
+[202] Oct  1:   actual: 186,374,667,    official: 18,637,378,   infectious: 829,742,   dead: 22,318,306 
+
+As of Oct  1 evening:
+ 13,682,907:  Total avoidable deaths from severely ills denied Hosp.BEDS
+  7,984,344:  Total avoidable deaths from critically ills denied H.VENTS 
+    651,055:  Total deaths of those given proper hospital treatment: 
+---------------
+ 22,318,306:  GRAND TOTAL DEATHS
+
+
+
+
+Starting Run:
+USA Adequate 1:14 spread Lockdown Scenario:  0.07142 at March 25
+[0] Mar 13:   actual: 21,957,    official: 2,195,   infectious: 12,326,   dead: 4 
+
+[1] Mar 14:   actual: 28,818,    official: 2,881,   infectious: 16,338,   dead: 9 
+
+[2] Mar 15:   actual: 37,787,    official: 3,777,   infectious: 21,357,   dead: 14 
+
+[3] Mar 16:   actual: 49,612,    official: 4,959,   infectious: 28,159,   dead: 46 
+
+[4] Mar 17:   actual: 65,173,    official: 6,515,   infectious: 37,058,   dead: 74 
+
+[5] Mar 18:   actual: 85,646,    official: 8,562,   infectious: 48,759,   dead: 110 
+
+[6] Mar 19:   actual: 112,465,    official: 11,243,   infectious: 63,876,   dead: 144 
+
+[7] Mar 20:   actual: 147,704,    official: 14,766,   infectious: 83,941,   dead: 195 
+
+[8] Mar 21:   actual: 193,984,    official: 19,394,   infectious: 110,255,   dead: 207 
+
+[9] Mar 22:   actual: 254,827,    official: 25,478,   infectious: 144,976,   dead: 211 
+
+[10] Mar 23:   actual: 334,704,    official: 33,465,   infectious: 190,377,   dead: 216 
+
+[11] Mar 24:   actual: 439,606,    official: 43,955,   infectious: 250,101,   dead: 221 
+
+[12] Mar 25:   actual: 463,026,    official: 46,297,   infectious: 328,501,   dead: 253 
+
+[13] Mar 26:   actual: 493,727,    official: 49,367,   infectious: 430,667,   dead: 281 
+
+[14] Mar 27:   actual: 525,893,    official: 52,583,   infectious: 451,271,   dead: 317 
+
+[15] Mar 28:   actual: 559,981,    official: 55,991,   infectious: 478,295,   dead: 351 
+
+[16] Mar 29:   actual: 596,019,    official: 59,594,   infectious: 505,731,   dead: 402 
+
+[17] Mar 30:   actual: 633,921,    official: 63,384,   infectious: 531,962,   dead: 531 
+
+[18] Mar 31:   actual: 673,716,    official: 67,363,   infectious: 558,609,   dead: 702 
+
+[19] Apr  1:   actual: 715,327,    official: 71,524,   infectious: 584,197,   dead: 926 
+
+[20] Apr  2:   actual: 758,673,    official: 75,858,   infectious: 608,656,   dead: 1,221 
+
+[21] Apr  3:   actual: 803,512,    official: 80,341,   infectious: 629,728,   dead: 1,610 
+
+[22] Apr  4:   actual: 849,930,    official: 84,982,   infectious: 652,025,   dead: 2,121 
+
+[23] Apr  5:   actual: 898,781,    official: 89,867,   infectious: 686,327,   dead: 2,791 
+
+[24] Apr  6:   actual: 949,973,    official: 94,986,   infectious: 719,356,   dead: 3,671 
+
+[25] Apr  7:   actual: 1,003,492,    official: 100,337,   infectious: 752,218,   dead: 4,828 
+
+[26] Apr  8:   actual: 1,059,264,    official: 105,914,   infectious: 784,047,   dead: 6,349 
+
+[27] Apr  9:   actual: 1,117,145,    official: 111,702,   infectious: 813,886,   dead: 8,345 
+
+[28] Apr 10:   actual: 1,176,907,    official: 117,678,   infectious: 840,527,   dead: 10,967 
+
+[29] Apr 11:   actual: 1,238,193,    official: 123,806,   infectious: 862,166,   dead: 11,552 
+
+[30] Apr 12:   actual: 1,300,482,    official: 130,034,   infectious: 876,496,   dead: 12,319 
+
+[31] Apr 13:   actual: 1,363,031,    official: 136,288,   infectious: 880,365,   dead: 13,123 
+
+[32] Apr 14:   actual: 1,424,807,    official: 142,465,   infectious: 869,706,   dead: 13,975 
+
+[33] Apr 15:   actual: 1,484,382,    official: 148,422,   infectious: 838,929,   dead: 14,875 
+
+[34] Apr 16:   actual: 1,546,296,    official: 154,613,   infectious: 872,083,   dead: 15,822 
+
+[35] Apr 17:   actual: 1,609,945,    official: 160,977,   infectious: 896,744,   dead: 16,816 
+
+[36] Apr 18:   actual: 1,675,378,    official: 167,520,   infectious: 922,109,   dead: 17,856 
+
+[37] Apr 19:   actual: 1,742,576,    official: 174,239,   infectious: 947,228,   dead: 18,939 
+
+[38] Apr 20:   actual: 1,811,524,    official: 181,133,   infectious: 972,159,   dead: 20,059 
+
+[39] Apr 21:   actual: 1,882,214,    official: 188,202,   infectious: 997,007,   dead: 21,219 
+
+[40] Apr 22:   actual: 1,954,642,    official: 195,444,   infectious: 1,021,812,   dead: 22,440 
+
+[41] Apr 23:   actual: 2,028,816,    official: 202,861,   infectious: 1,046,742,   dead: 23,719 
+
+[42] Apr 24:   actual: 2,104,758,    official: 210,455,   infectious: 1,072,022,   dead: 25,056 
+
+[43] Apr 25:   actual: 2,182,523,    official: 218,231,   infectious: 1,098,079,   dead: 26,450 
+
+[44] Apr 26:   actual: 2,262,159,    official: 226,194,   infectious: 1,124,854,   dead: 27,897 
+
+[45] Apr 27:   actual: 2,343,624,    official: 234,340,   infectious: 1,151,068,   dead: 29,391 
+
+[46] Apr 28:   actual: 2,426,892,    official: 242,666,   infectious: 1,176,931,   dead: 30,923 
+
+[47] Apr 29:   actual: 2,511,934,    official: 251,170,   infectious: 1,202,406,   dead: 32,480 
+
+[48] Apr 30:   actual: 2,598,723,    official: 259,848,   infectious: 1,227,529,   dead: 34,043 
+
+[49] May  1:   actual: 2,687,239,    official: 268,699,   infectious: 1,252,390,   dead: 35,587 
+
+[50] May  2:   actual: 2,777,472,    official: 277,722,   infectious: 1,277,145,   dead: 37,076 
+
+[51] May  3:   actual: 2,869,432,    official: 286,918,   infectious: 1,302,059,   dead: 38,623 
+
+[52] May  4:   actual: 2,963,156,    official: 296,290,   infectious: 1,327,537,   dead: 40,214 
+
+[53] May  5:   actual: 3,058,725,    official: 305,846,   infectious: 1,354,178,   dead: 41,849 
+
+[54] May  6:   actual: 3,156,279,    official: 315,601,   infectious: 1,382,835,   dead: 43,528 
+
+[55] May  7:   actual: 3,256,043,    official: 325,577,   infectious: 1,414,725,   dead: 45,251 
+
+[56] May  8:   actual: 3,357,997,    official: 335,772,   infectious: 1,446,365,   dead: 47,018 
+
+[57] May  9:   actual: 3,462,171,    official: 346,189,   infectious: 1,478,467,   dead: 48,828 
+
+[58] May 10:   actual: 3,568,591,    official: 356,831,   infectious: 1,510,978,   dead: 50,682 
+
+[59] May 11:   actual: 3,677,286,    official: 367,700,   infectious: 1,543,949,   dead: 52,580 
+
+[60] May 12:   actual: 3,788,288,    official: 378,800,   infectious: 1,577,422,   dead: 54,524 
+
+[61] May 13:   actual: 3,901,633,    official: 390,134,   infectious: 1,611,432,   dead: 56,514 
+
+[62] May 14:   actual: 4,017,356,    official: 401,706,   infectious: 1,646,011,   dead: 58,550 
+
+[63] May 15:   actual: 4,135,496,    official: 413,520,   infectious: 1,681,180,   dead: 60,631 
+
+[64] May 16:   actual: 4,256,091,    official: 425,579,   infectious: 1,716,937,   dead: 62,757 
+
+[65] May 17:   actual: 4,379,176,    official: 437,887,   infectious: 1,753,243,   dead: 64,926 
+
+[66] May 18:   actual: 4,504,783,    official: 450,447,   infectious: 1,790,067,   dead: 67,138 
+
+[67] May 19:   actual: 4,632,950,    official: 463,263,   infectious: 1,827,478,   dead: 69,393 
+
+[68] May 20:   actual: 4,763,717,    official: 476,339,   infectious: 1,865,523,   dead: 71,692 
+
+[69] May 21:   actual: 4,897,128,    official: 489,680,   infectious: 1,904,259,   dead: 74,035 
+
+[70] May 22:   actual: 5,033,231,    official: 503,290,   infectious: 1,943,740,   dead: 76,424 
+
+[71] May 23:   actual: 5,172,077,    official: 517,174,   infectious: 1,984,020,   dead: 78,862 
+
+[72] May 24:   actual: 5,313,721,    official: 531,338,   infectious: 2,025,148,   dead: 81,356 
+
+[73] May 25:   actual: 5,458,220,    official: 545,787,   infectious: 2,067,161,   dead: 83,904 
+
+[74] May 26:   actual: 5,605,631,    official: 560,528,   infectious: 2,110,075,   dead: 86,508 
+
+[75] May 27:   actual: 5,756,012,    official: 575,566,   infectious: 2,153,875,   dead: 89,168 
+
+[76] May 28:   actual: 5,909,414,    official: 590,906,   infectious: 2,198,500,   dead: 91,885 
+
+[77] May 29:   actual: 6,065,880,    official: 606,552,   infectious: 2,243,820,   dead: 94,660 
+
+[78] May 30:   actual: 6,225,456,    official: 622,509,   infectious: 2,289,895,   dead: 97,493 
+
+[79] May 31:   actual: 6,388,190,    official: 638,782,   infectious: 2,336,736,   dead: 100,386 
+
+[80] Jun  1:   actual: 6,554,130,    official: 655,376,   infectious: 2,384,360,   dead: 103,339 
+
+[81] Jun  2:   actual: 6,723,324,    official: 672,295,   infectious: 2,432,780,   dead: 106,353 
+
+[82] Jun  3:   actual: 6,895,822,    official: 689,544,   infectious: 2,482,010,   dead: 109,430 
+
+[83] Jun  4:   actual: 7,071,673,    official: 707,129,   infectious: 2,532,057,   dead: 112,570 
+
+[84] Jun  5:   actual: 7,250,928,    official: 725,054,   infectious: 2,582,932,   dead: 115,774 
+
+[85] Jun  6:   actual: 7,433,637,    official: 743,324,   infectious: 2,634,641,   dead: 119,043 
+
+[86] Jun  7:   actual: 7,619,850,    official: 761,945,   infectious: 2,687,192,   dead: 122,378 
+
+[87] Jun  8:   actual: 7,809,618,    official: 780,921,   infectious: 2,740,599,   dead: 125,780 
+
+[88] Jun  9:   actual: 8,002,993,    official: 800,258,   infectious: 2,794,879,   dead: 129,251 
+
+[89] Jun 10:   actual: 8,200,027,    official: 819,961,   infectious: 2,850,041,   dead: 132,792 
+
+[90] Jun 11:   actual: 8,400,773,    official: 840,035,   infectious: 2,906,095,   dead: 136,404 
+
+[91] Jun 12:   actual: 8,605,283,    official: 860,486,   infectious: 2,963,049,   dead: 140,089 
+
+[92] Jun 13:   actual: 8,813,610,    official: 881,318,   infectious: 3,020,909,   dead: 143,848 
+
+[93] Jun 14:   actual: 9,025,806,    official: 902,537,   infectious: 3,079,675,   dead: 147,683 
+
+[94] Jun 15:   actual: 9,241,923,    official: 924,148,   infectious: 3,139,347,   dead: 151,594 
+
+[95] Jun 16:   actual: 9,462,013,    official: 946,157,   infectious: 3,199,919,   dead: 155,583 
+
+[96] Jun 17:   actual: 9,686,126,    official: 968,568,   infectious: 3,261,390,   dead: 159,651 
+
+[97] Jun 18:   actual: 9,914,311,    official: 991,386,   infectious: 3,323,756,   dead: 163,799 
+
+[98] Jun 19:   actual: 10,146,618,    official: 1,014,616,   infectious: 3,387,014,   dead: 168,028 
+
+[99] Jun 20:   actual: 10,383,097,    official: 1,038,263,   infectious: 3,451,168,   dead: 172,340 
+
+[100] Jun 21:   actual: 10,623,796,    official: 1,062,332,   infectious: 3,516,221,   dead: 176,736 
+
+[101] Jun 22:   actual: 10,868,763,    official: 1,086,828,   infectious: 3,582,176,   dead: 181,217 
+
+[102] Jun 23:   actual: 11,118,047,    official: 1,111,756,   infectious: 3,649,031,   dead: 185,784 
+
+[103] Jun 24:   actual: 11,371,694,    official: 1,137,120,   infectious: 3,716,784,   dead: 190,439 
+
+
+RAN OUT OF VENTILATORS
+[104] Jun 25:   actual: 11,629,752,    official: 1,162,925,   infectious: 3,785,434,   dead: 195,183 
+
+[105] Jun 26:   actual: 11,892,524,    official: 1,189,202,   infectious: 3,858,753,   dead: 200,017 
+
+[106] Jun 27:   actual: 12,160,068,    official: 1,215,956,   infectious: 3,933,170,   dead: 204,942 
+
+[107] Jun 28:   actual: 12,432,450,    official: 1,243,194,   infectious: 4,008,794,   dead: 209,960 
+
+[108] Jun 29:   actual: 12,709,478,    official: 1,270,896,   infectious: 4,081,852,   dead: 218,847 
+
+[109] Jun 30:   actual: 12,991,205,    official: 1,299,068,   infectious: 4,155,930,   dead: 228,037 
+
+[110] Jul  1:   actual: 13,277,676,    official: 1,327,715,   infectious: 4,230,929,   dead: 237,386 
+
+[111] Jul  2:   actual: 13,568,935,    official: 1,356,840,   infectious: 4,306,856,   dead: 246,891 
+
+[112] Jul  3:   actual: 13,865,026,    official: 1,386,449,   infectious: 4,383,703,   dead: 254,667 
+
+[113] Jul  4:   actual: 14,166,119,    official: 1,416,558,   infectious: 4,463,350,   dead: 262,500 
+
+[114] Jul  5:   actual: 14,472,262,    official: 1,447,172,   infectious: 4,544,004,   dead: 270,465 
+
+[115] Jul  6:   actual: 14,783,506,    official: 1,478,296,   infectious: 4,625,711,   dead: 278,566 
+
+[116] Jul  7:   actual: 15,099,770,    official: 1,509,922,   infectious: 4,706,541,   dead: 288,689 
+
+[117] Jul  8:   actual: 15,421,094,    official: 1,542,054,   infectious: 4,788,279,   dead: 299,052 
+
+[118] Jul  9:   actual: 15,747,511,    official: 1,574,695,   infectious: 4,870,848,   dead: 309,597 
+
+[119] Jul 10:   actual: 16,079,058,    official: 1,607,849,   infectious: 4,954,280,   dead: 320,323 
+
+[120] Jul 11:   actual: 16,415,767,    official: 1,641,519,   infectious: 5,038,555,   dead: 330,291 
+
+[121] Jul 12:   actual: 16,757,734,    official: 1,675,715,   infectious: 5,124,616,   dead: 340,381 
+
+[122] Jul 13:   actual: 17,104,994,    official: 1,710,441,   infectious: 5,211,555,   dead: 350,632 
+
+[123] Jul 14:   actual: 17,457,580,    official: 1,745,699,   infectious: 5,299,385,   dead: 361,047 
+
+[124] Jul 15:   actual: 17,815,462,    official: 1,781,487,   infectious: 5,387,129,   dead: 372,568 
+
+[125] Jul 16:   actual: 18,178,666,    official: 1,817,807,   infectious: 5,475,666,   dead: 384,306 
+
+[126] Jul 17:   actual: 18,547,214,    official: 1,854,661,   infectious: 5,564,947,   dead: 396,231 
+
+[127] Jul 18:   actual: 18,921,115,    official: 1,892,051,   infectious: 5,654,766,   dead: 408,343 
+
+[128] Jul 19:   actual: 19,300,375,    official: 1,929,977,   infectious: 5,745,090,   dead: 420,173 
+
+[129] Jul 20:   actual: 19,685,027,    official: 1,968,442,   infectious: 5,836,347,   dead: 432,161 
+
+[130] Jul 21:   actual: 20,075,084,    official: 2,007,447,   infectious: 5,928,242,   dead: 444,326 
+
+[131] Jul 22:   actual: 20,470,556,    official: 2,046,994,   infectious: 6,020,743,   dead: 456,668 
+
+[132] Jul 23:   actual: 20,871,419,    official: 2,087,080,   infectious: 6,113,335,   dead: 469,660 
+
+[133] Jul 24:   actual: 21,277,676,    official: 2,127,705,   infectious: 6,206,434,   dead: 482,856 
+
+[134] Jul 25:   actual: 21,689,326,    official: 2,168,870,   infectious: 6,299,991,   dead: 496,243 
+
+[135] Jul 26:   actual: 22,106,359,    official: 2,210,573,   infectious: 6,393,873,   dead: 509,820 
+
+[136] Jul 27:   actual: 22,528,760,    official: 2,252,813,   infectious: 6,488,038,   dead: 523,352 
+
+[137] Jul 28:   actual: 22,956,528,    official: 2,295,589,   infectious: 6,582,666,   dead: 537,060 
+
+[138] Jul 29:   actual: 23,389,648,    official: 2,338,901,   infectious: 6,677,582,   dead: 550,952 
+
+[139] Jul 30:   actual: 23,828,102,    official: 2,382,746,   infectious: 6,772,743,   dead: 565,028 
+
+[140] Jul 31:   actual: 24,271,854,    official: 2,427,121,   infectious: 6,867,866,   dead: 579,524 
+
+[141] Aug  1:   actual: 24,720,878,    official: 2,472,023,   infectious: 6,963,125,   dead: 594,214 
+
+[142] Aug  2:   actual: 25,175,145,    official: 2,517,449,   infectious: 7,058,463,   dead: 609,091 
+
+[143] Aug  3:   actual: 25,634,618,    official: 2,563,396,   infectious: 7,153,780,   dead: 624,154 
+
+[144] Aug  4:   actual: 26,099,256,    official: 2,609,859,   infectious: 7,249,019,   dead: 639,285 
+
+[145] Aug  5:   actual: 26,569,022,    official: 2,656,835,   infectious: 7,344,233,   dead: 654,593 
+
+[146] Aug  6:   actual: 27,043,871,    official: 2,704,319,   infectious: 7,439,299,   dead: 670,080 
+
+[147] Aug  7:   actual: 27,523,752,    official: 2,752,307,   infectious: 7,534,153,   dead: 685,746 
+
+[148] Aug  8:   actual: 28,008,724,    official: 2,800,804,   infectious: 7,630,505,   dead: 701,706 
+
+[149] Aug  9:   actual: 28,498,735,    official: 2,849,805,   infectious: 7,726,627,   dead: 717,848 
+
+[150] Aug 10:   actual: 28,993,731,    official: 2,899,304,   infectious: 7,822,509,   dead: 734,165 
+
+[151] Aug 11:   actual: 29,493,536,    official: 2,949,284,   infectious: 7,916,187,   dead: 752,543 
+
+[152] Aug 12:   actual: 29,998,082,    official: 2,999,738,   infectious: 8,009,387,   dead: 771,136 
+
+[153] Aug 13:   actual: 30,507,298,    official: 3,050,659,   infectious: 8,102,063,   dead: 789,926 
+
+[154] Aug 14:   actual: 31,021,108,    official: 3,102,040,   infectious: 8,194,120,   dead: 808,910 
+
+[155] Aug 15:   actual: 31,539,431,    official: 3,153,872,   infectious: 8,285,489,   dead: 827,141 
+
+[156] Aug 16:   actual: 32,062,296,    official: 3,206,158,   infectious: 8,377,931,   dead: 845,569 
+
+[157] Aug 17:   actual: 32,589,620,    official: 3,258,890,   infectious: 8,469,653,   dead: 864,169 
+
+[158] Aug 18:   actual: 33,121,319,    official: 3,312,059,   infectious: 8,560,636,   dead: 882,939 
+
+[159] Aug 19:   actual: 33,657,187,    official: 3,365,645,   infectious: 8,648,902,   dead: 903,763 
+
+[160] Aug 20:   actual: 34,197,125,    official: 3,419,638,   infectious: 8,736,173,   dead: 924,822 
+
+[161] Aug 21:   actual: 34,741,029,    official: 3,474,028,   infectious: 8,822,365,   dead: 946,075 
+
+[162] Aug 22:   actual: 35,288,792,    official: 3,528,804,   infectious: 8,907,410,   dead: 967,517 
+
+[163] Aug 23:   actual: 35,840,303,    official: 3,583,955,   infectious: 8,991,239,   dead: 988,199 
+
+[164] Aug 24:   actual: 36,395,532,    official: 3,639,477,   infectious: 9,075,171,   dead: 1,009,036 
+
+[165] Aug 25:   actual: 36,954,366,    official: 3,695,360,   infectious: 9,157,829,   dead: 1,030,030 
+
+[166] Aug 26:   actual: 37,516,689,    official: 3,751,592,   infectious: 9,239,180,   dead: 1,051,176 
+
+[167] Aug 27:   actual: 38,082,296,    official: 3,808,152,   infectious: 9,317,722,   dead: 1,073,887 
+
+[168] Aug 28:   actual: 38,651,059,    official: 3,865,028,   infectious: 9,394,729,   dead: 1,096,803 
+
+[169] Aug 29:   actual: 39,222,847,    official: 3,922,206,   infectious: 9,470,119,   dead: 1,119,884 
+
+[170] Aug 30:   actual: 39,797,521,    official: 3,979,673,   infectious: 9,543,737,   dead: 1,143,124 
+
+[171] Aug 31:   actual: 40,374,939,    official: 4,037,414,   infectious: 9,615,515,   dead: 1,165,808 
+
+[172] Sep  1:   actual: 40,955,010,    official: 4,095,421,   infectious: 9,686,310,   dead: 1,188,612 
+
+[173] Sep  2:   actual: 41,537,594,    official: 4,153,679,   infectious: 9,755,263,   dead: 1,211,541 
+
+[174] Sep  3:   actual: 42,122,548,    official: 4,212,174,   infectious: 9,822,325,   dead: 1,234,590 
+
+[175] Sep  4:   actual: 42,709,670,    official: 4,270,886,   infectious: 9,886,475,   dead: 1,258,697 
+
+[176] Sep  5:   actual: 43,298,810,    official: 4,329,800,   infectious: 9,948,549,   dead: 1,282,953 
+
+[177] Sep  6:   actual: 43,889,814,    official: 4,388,900,   infectious: 10,008,471,   dead: 1,307,328 
+
+[178] Sep  7:   actual: 44,482,522,    official: 4,448,170,   infectious: 10,066,099,   dead: 1,331,813 
+
+[179] Sep  8:   actual: 45,076,770,    official: 4,507,594,   infectious: 10,121,369,   dead: 1,355,930 
+
+[180] Sep  9:   actual: 45,672,428,    official: 4,567,159,   infectious: 10,174,801,   dead: 1,380,122 
+
+[181] Sep 10:   actual: 46,269,336,    official: 4,626,849,   infectious: 10,225,871,   dead: 1,404,392 
+
+[182] Sep 11:   actual: 46,867,332,    official: 4,686,648,   infectious: 10,274,536,   dead: 1,428,732 
+
+[183] Sep 12:   actual: 47,466,220,    official: 4,746,536,   infectious: 10,320,148,   dead: 1,453,725 
+
+[184] Sep 13:   actual: 48,065,834,    official: 4,806,497,   infectious: 10,363,218,   dead: 1,478,799 
+
+[185] Sep 14:   actual: 48,666,008,    official: 4,866,514,   infectious: 10,403,687,   dead: 1,503,932 
+
+[186] Sep 15:   actual: 49,266,570,    official: 4,926,570,   infectious: 10,441,450,   dead: 1,529,114 
+
+[187] Sep 16:   actual: 49,867,348,    official: 4,986,647,   infectious: 10,476,462,   dead: 1,554,040 
+
+[188] Sep 17:   actual: 50,468,190,    official: 5,046,731,   infectious: 10,509,026,   dead: 1,578,985 
+
+[189] Sep 18:   actual: 51,068,927,    official: 5,106,804,   infectious: 10,538,833,   dead: 1,603,945 
+
+[190] Sep 19:   actual: 51,669,391,    official: 5,166,850,   infectious: 10,565,854,   dead: 1,628,913 
+
+[191] Sep 20:   actual: 52,269,447,    official: 5,226,855,   infectious: 10,590,641,   dead: 1,654,233 
+
+[192] Sep 21:   actual: 52,868,929,    official: 5,286,803,   infectious: 10,612,613,   dead: 1,679,558 
+
+[193] Sep 22:   actual: 53,467,671,    official: 5,346,677,   infectious: 10,631,757,   dead: 1,704,870 
+
+[194] Sep 23:   actual: 54,065,455,    official: 5,406,455,   infectious: 10,647,072,   dead: 1,731,102 
+
+[195] Sep 24:   actual: 54,662,112,    official: 5,466,120,   infectious: 10,659,430,   dead: 1,757,176 
+
+[196] Sep 25:   actual: 55,257,486,    official: 5,525,657,   infectious: 10,669,002,   dead: 1,783,216 
+
+[197] Sep 26:   actual: 55,851,414,    official: 5,585,049,   infectious: 10,675,623,   dead: 1,809,213 
+
+[198] Sep 27:   actual: 56,443,734,    official: 5,644,281,   infectious: 10,679,284,   dead: 1,834,689 
+
+[199] Sep 28:   actual: 57,034,352,    official: 5,703,342,   infectious: 10,681,181,   dead: 1,860,287 
+
+[200] Sep 29:   actual: 57,623,112,    official: 5,762,218,   infectious: 10,680,176,   dead: 1,885,816 
+
+[201] Sep 30:   actual: 58,209,862,    official: 5,820,893,   infectious: 10,676,290,   dead: 1,911,265 
+
+[202] Oct  1:   actual: 58,794,373,    official: 5,879,344,   infectious: 10,668,084,   dead: 1,938,035 
+
+[203] Oct  2:   actual: 59,376,492,    official: 5,937,555,   infectious: 10,656,907,   dead: 1,964,678 
+
+[204] Oct  3:   actual: 59,956,074,    official: 5,995,513,   infectious: 10,642,861,   dead: 1,991,230 
+
+[205] Oct  4:   actual: 60,532,972,    official: 6,053,202,   infectious: 10,625,881,   dead: 2,017,683 
+
+[206] Oct  5:   actual: 61,107,041,    official: 6,110,608,   infectious: 10,605,984,   dead: 2,043,321 
+
+[207] Oct  6:   actual: 61,678,211,    official: 6,167,725,   infectious: 10,584,488,   dead: 2,068,919 
+
+[208] Oct  7:   actual: 62,246,347,    official: 6,224,538,   infectious: 10,560,194,   dead: 2,094,380 
+
+[209] Oct  8:   actual: 62,811,318,    official: 6,281,035,   infectious: 10,533,148,   dead: 2,119,694 
+
+[210] Oct  9:   actual: 63,372,921,    official: 6,337,195,   infectious: 10,501,946,   dead: 2,146,267 
+
+[211] Oct 10:   actual: 63,931,027,    official: 6,393,005,   infectious: 10,467,958,   dead: 2,172,693 
+
+[212] Oct 11:   actual: 64,485,513,    official: 6,448,453,   infectious: 10,431,267,   dead: 2,198,967 
+
+[213] Oct 12:   actual: 65,036,257,    official: 6,503,527,   infectious: 10,391,829,   dead: 2,225,082 
+
+[214] Oct 13:   actual: 65,583,139,    official: 6,558,215,   infectious: 10,349,686,   dead: 2,250,320 
+
+[215] Oct 14:   actual: 66,126,102,    official: 6,612,511,   infectious: 10,305,993,   dead: 2,275,405 
+
+[216] Oct 15:   actual: 66,665,039,    official: 6,666,404,   infectious: 10,259,782,   dead: 2,300,291 
+
+[217] Oct 16:   actual: 67,199,848,    official: 6,719,884,   infectious: 10,211,116,   dead: 2,324,970 
+
+[218] Oct 17:   actual: 67,730,367,    official: 6,772,935,   infectious: 10,158,852,   dead: 2,350,612 
+
+[219] Oct 18:   actual: 68,256,499,    official: 6,825,548,   infectious: 10,104,160,   dead: 2,376,060 
+
+[220] Oct 19:   actual: 68,778,150,    official: 6,877,713,   infectious: 10,047,114,   dead: 2,401,297 
+
+[221] Oct 20:   actual: 69,295,227,    official: 6,929,420,   infectious: 9,987,694,   dead: 2,426,313 
+
+[222] Oct 21:   actual: 69,807,642,    official: 6,980,661,   infectious: 9,925,958,   dead: 2,450,512 
+
+[223] Oct 22:   actual: 70,315,353,    official: 7,031,432,   infectious: 9,862,807,   dead: 2,474,478 
+
+[224] Oct 23:   actual: 70,818,284,    official: 7,081,725,   infectious: 9,797,561,   dead: 2,498,190 
+
+[225] Oct 24:   actual: 71,316,364,    official: 7,131,533,   infectious: 9,730,292,   dead: 2,521,640 
+
+[226] Oct 25:   actual: 71,809,480,    official: 7,180,844,   infectious: 9,660,171,   dead: 2,545,706 
+
+[227] Oct 26:   actual: 72,297,567,    official: 7,229,652,   infectious: 9,588,100,   dead: 2,569,525 
+
+[228] Oct 27:   actual: 72,780,563,    official: 7,277,951,   infectious: 9,514,157,   dead: 2,593,077 
+
+[229] Oct 28:   actual: 73,258,408,    official: 7,325,735,   infectious: 9,438,344,   dead: 2,616,355 
+
+[230] Oct 29:   actual: 73,731,045,    official: 7,372,998,   infectious: 9,360,725,   dead: 2,638,910 
+
+[231] Oct 30:   actual: 74,198,452,    official: 7,419,738,   infectious: 9,281,966,   dead: 2,661,172 
+
+[232] Oct 31:   actual: 74,660,585,    official: 7,465,951,   infectious: 9,201,625,   dead: 2,683,133 
+
+[233] Nov  1:   actual: 75,117,403,    official: 7,511,632,   infectious: 9,119,777,   dead: 2,704,787 
+
+[234] Nov  2:   actual: 75,568,863,    official: 7,556,778,   infectious: 9,036,340,   dead: 2,726,747 
+
+[235] Nov  3:   actual: 76,014,931,    official: 7,601,384,   infectious: 8,951,527,   dead: 2,748,411 
+
+[236] Nov  4:   actual: 76,455,578,    official: 7,645,448,   infectious: 8,865,420,   dead: 2,769,763 
+
+[237] Nov  5:   actual: 76,890,754,    official: 7,688,965,   infectious: 8,777,569,   dead: 2,791,268 
+
+[238] Nov  6:   actual: 77,320,433,    official: 7,731,932,   infectious: 8,688,487,   dead: 2,812,167 
+
+[239] Nov  7:   actual: 77,744,614,    official: 7,774,350,   infectious: 8,598,645,   dead: 2,832,739 
+
+[240] Nov  8:   actual: 78,163,281,    official: 7,816,216,   infectious: 8,507,776,   dead: 2,852,979 
+
+[241] Nov  9:   actual: 78,576,423,    official: 7,857,530,   infectious: 8,415,956,   dead: 2,872,648 
+
+[242] Nov 10:   actual: 78,984,057,    official: 7,898,293,   infectious: 8,323,775,   dead: 2,892,379 
+
+[243] Nov 11:   actual: 79,386,180,    official: 7,938,505,   infectious: 8,230,811,   dead: 2,911,777 
+
+[244] Nov 12:   actual: 79,782,792,    official: 7,978,166,   infectious: 8,137,141,   dead: 2,930,834 
+
+[245] Nov 13:   actual: 80,173,849,    official: 8,017,271,   infectious: 8,041,855,   dead: 2,950,486 
+
+[246] Nov 14:   actual: 80,559,352,    official: 8,055,821,   infectious: 7,945,913,   dead: 2,969,633 
+
+[247] Nov 15:   actual: 80,939,320,    official: 8,093,817,   infectious: 7,849,630,   dead: 2,988,440 
+
+[248] Nov 16:   actual: 81,313,762,    official: 8,131,261,   infectious: 7,752,861,   dead: 3,006,900 
+
+[249] Nov 17:   actual: 81,682,691,    official: 8,168,153,   infectious: 7,655,675,   dead: 3,024,543 
+
+[250] Nov 18:   actual: 82,046,167,    official: 8,204,500,   infectious: 7,559,042,   dead: 3,042,075 
+
+[251] Nov 19:   actual: 82,404,210,    official: 8,240,304,   infectious: 7,462,169,   dead: 3,059,256 
+
+[252] Nov 20:   actual: 82,756,843,    official: 8,275,567,   infectious: 7,365,126,   dead: 3,076,082 
+
+[253] Nov 21:   actual: 83,104,035,    official: 8,310,286,   infectious: 7,266,770,   dead: 3,093,726 
+
+[254] Nov 22:   actual: 83,445,810,    official: 8,344,463,   infectious: 7,168,272,   dead: 3,110,942 
+
+[255] Nov 23:   actual: 83,782,202,    official: 8,378,102,   infectious: 7,069,843,   dead: 3,127,811 
+
+[256] Nov 24:   actual: 84,113,239,    official: 8,411,205,   infectious: 6,971,395,   dead: 3,144,334 
+
+[257] Nov 25:   actual: 84,438,953,    official: 8,443,776,   infectious: 6,872,981,   dead: 3,159,921 
+
+[258] Nov 26:   actual: 84,759,425,    official: 8,475,823,   infectious: 6,775,667,   dead: 3,175,289 
+
+[259] Nov 27:   actual: 85,074,693,    official: 8,507,349,   infectious: 6,678,564,   dead: 3,190,304 
+
+[260] Nov 28:   actual: 85,384,797,    official: 8,538,359,   infectious: 6,581,734,   dead: 3,204,960 
+
+[261] Nov 29:   actual: 85,689,723,    official: 8,568,851,   infectious: 6,484,026,   dead: 3,220,436 
+
+[262] Nov 30:   actual: 85,989,511,    official: 8,598,829,   infectious: 6,386,603,   dead: 3,235,534 
+
+[263] Dec  1:   actual: 86,284,207,    official: 8,628,298,   infectious: 6,289,599,   dead: 3,250,291 
+
+[264] Dec  2:   actual: 86,573,853,    official: 8,657,262,   infectious: 6,192,948,   dead: 3,264,707 
+
+[265] Dec  3:   actual: 86,858,493,    official: 8,685,726,   infectious: 6,096,692,   dead: 3,278,192 
+
+[266] Dec  4:   actual: 87,138,214,    official: 8,713,698,   infectious: 6,001,799,   dead: 3,291,403 
+
+[267] Dec  5:   actual: 87,413,067,    official: 8,741,183,   infectious: 5,907,464,   dead: 3,304,264 
+
+[268] Dec  6:   actual: 87,683,102,    official: 8,768,186,   infectious: 5,813,732,   dead: 3,316,775 
+
+[269] Dec  7:   actual: 87,948,323,    official: 8,794,708,   infectious: 5,719,593,   dead: 3,329,967 
+
+[270] Dec  8:   actual: 88,208,781,    official: 8,820,753,   infectious: 5,626,056,   dead: 3,342,815 
+
+[271] Dec  9:   actual: 88,464,528,    official: 8,846,327,   infectious: 5,533,203,   dead: 3,355,332 
+
+[272] Dec 10:   actual: 88,715,615,    official: 8,871,435,   infectious: 5,440,982,   dead: 3,367,518 
+
+[273] Dec 11:   actual: 88,962,093,    official: 8,896,082,   infectious: 5,349,420,   dead: 3,378,858 
+
+[274] Dec 12:   actual: 89,204,049,    official: 8,920,277,   infectious: 5,259,307,   dead: 3,389,898 
+
+[275] Dec 13:   actual: 89,441,539,    official: 8,944,026,   infectious: 5,169,989,   dead: 3,400,601 
+
+[276] Dec 14:   actual: 89,674,619,    official: 8,967,334,   infectious: 5,081,494,   dead: 3,410,967 
+
+[277] Dec 15:   actual: 89,903,318,    official: 8,990,203,   infectious: 4,993,246,   dead: 3,421,823 
+
+[278] Dec 16:   actual: 90,127,693,    official: 9,012,640,   infectious: 4,905,826,   dead: 3,432,359 
+
+[279] Dec 17:   actual: 90,347,801,    official: 9,034,650,   infectious: 4,819,284,   dead: 3,442,575 
+
+[280] Dec 18:   actual: 90,563,686,    official: 9,056,238,   infectious: 4,733,339,   dead: 3,452,708 
+
+[281] Dec 19:   actual: 90,775,403,    official: 9,077,409,   infectious: 4,648,232,   dead: 3,462,124 
+
+[282] Dec 20:   actual: 90,983,032,    official: 9,098,171,   infectious: 4,564,556,   dead: 3,471,240 
+
+[283] Dec 21:   actual: 91,186,632,    official: 9,118,531,   infectious: 4,481,818,   dead: 3,480,037 
+
+[284] Dec 22:   actual: 91,386,261,    official: 9,138,493,   infectious: 4,400,033,   dead: 3,488,400 
+
+[285] Dec 23:   actual: 91,581,975,    official: 9,158,064,   infectious: 4,319,175,   dead: 3,497,060 
+
+[286] Dec 24:   actual: 91,773,832,    official: 9,177,249,   infectious: 4,239,288,   dead: 3,505,419 
+
+[287] Dec 25:   actual: 91,961,891,    official: 9,196,054,   infectious: 4,160,403,   dead: 3,513,475 
+
+[288] Dec 26:   actual: 92,146,182,    official: 9,214,483,   infectious: 4,081,890,   dead: 3,521,818 
+
+[289] Dec 27:   actual: 92,326,759,    official: 9,232,540,   infectious: 4,004,310,   dead: 3,529,583 
+
+[290] Dec 28:   actual: 92,503,696,    official: 9,250,233,   infectious: 3,928,092,   dead: 3,537,062 
+
+[291] Dec 29:   actual: 92,677,051,    official: 9,267,568,   infectious: 3,852,878,   dead: 3,544,246 
+
+[292] Dec 30:   actual: 92,846,880,    official: 9,284,550,   infectious: 3,778,673,   dead: 3,550,844 
+
+[293] Dec 31:   actual: 93,013,259,    official: 9,301,187,   infectious: 3,705,919,   dead: 3,557,579 
+
+As of Dec 31 evening:
+          0:  Total avoidable deaths from severely ills denied Hosp.BEDS
+  2,619,485:  Total avoidable deaths from critically ills denied H.VENTS 
+    938,094:  Total deaths of those given proper hospital treatment: 
+---------------
+  3,557,579:  GRAND TOTAL DEATHS
+Press [Enter] to close the terminal ...
+
+

@@ -1,0 +1,67 @@
+RESULTS SUMMARY, INTERPRETATION
+ Here I run five different scenarios.
+ 
+ Scenario 1 is reasonably probable "worse" case.  Not worst.  This is using CURRENT EXPANSION RATES.  Beta = 0.42.
+   If people do not FURTHER, HARD self-isolate.  Will happen around maybe 50% prob subjective WAG.
+   
+ RAN OUT OF VENTILATORS    Apr 11
+ RAN OUT OF HOSPITAL BEDS  Apr 14
+   As of Jun  1 evening:
+ 33,384,799:  Total avoidable deaths from severely ills denied Hosp.BEDS
+ 12,102,771:  Total avoidable deaths from critically ills denied H.VENTS 
+    197,926:  Total deaths of those given proper hospital treatment: 
+---------------
+ 45,685,496:  GRAND TOTAL DEATHS
+ 
+ 
+ Scenario 2 is unrealistic USA Idyllic Best-Case Scenario, assumes ALL spreading magically stops Wed Mar 25 '20.
+ This is the very best case that could possibly happen.  It will never happen.  0% chance.
+It's here mostly to provide inspiration, and probably should not have been included:
+
+As of Apr 30 evening:
+          0:  Total avoidable deaths from severely ills denied Hosp.BEDS
+          0:  Total avoidable deaths from critically ills denied H.VENTS 
+     10,967:  Total deaths of those given proper hospital treatment: 
+---------------
+     10,967:  GRAND TOTAL DEATHS
+     
+     
+Scenario 3 is the best guess at a fairly realistic current scenario, with a moderate level of self-isolation.
+Beta = 0.20.  Half the people are strict and stay home with NO contact; half the people sorta do it,
+and are still going out to grocery stores etc.  Self-isolation kicks in Mar 25th.  Good chance maybe 40% realistic:
+
+RAN OUT OF VENTILATORS   Apr 18 
+RAN OUT OF HOSPITAL BEDS Apr 24
+As of Jul  1 evening:
+ 29,228,394:  Total avoidable deaths from severely ills denied Hosp.BEDS
+ 11,499,871:  Total avoidable deaths from critically ills denied H.VENTS 
+    353,071:  Total deaths of those given proper hospital treatment: 
+---------------
+ 41,081,336:  GRAND TOTAL DEATHS
+
+
+Scenarios 4 and 5 are interesting, because they point out there is a "knee" in the curve,
+depending upon how well people self-isolate.  If only 1 in 10 infected people spread to a new person each day,
+we are still hosed.  But if merely 1 in 14 infected people spread to a new person each day,
+the hospitals are not nearly as jammed up, and millions of people end up surviving.
+So immediate, hard isolation will produce substantial results:
+
+USA Inadequate 1:10 spread Lockdown Scenario:   Beta = 0.10 starting at March 25
+RAN OUT OF VENTILATORS   May  8
+RAN OUT OF HOSPITAL BEDS May 30
+As of Oct  1 evening:
+ 13,682,907:  Total avoidable deaths from severely ills denied Hosp.BEDS
+  7,984,344:  Total avoidable deaths from critically ills denied H.VENTS 
+    651,055:  Total deaths of those given proper hospital treatment: 
+---------------
+ 22,318,306:  GRAND TOTAL DEATHS
+ 
+ 
+USA Adequate 1:14 spread Lockdown Scenario:  0.07142 at March 25
+RAN OUT OF VENTILATORS   Jun 25
+As of Dec 31 evening:
+          0:  Total avoidable deaths from severely ills denied Hosp.BEDS
+  2,619,485:  Total avoidable deaths from critically ills denied H.VENTS 
+    938,094:  Total deaths of those given proper hospital treatment: 
+---------------
+  3,557,579:  GRAND TOTAL DEATHS
