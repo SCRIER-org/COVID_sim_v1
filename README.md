@@ -40,6 +40,9 @@ GET STARTED:
 3. 50% of Criticals on ventilators die after a week; 50% live after 6 weeks on ventilator
 4. 1,000,000 Hospital Beds (staffed), and 200,000 ventilators (staffed).  For America.
 5. Ventilators come w/ own separate bed (not included in Hospital Beds total).  If this is wrong, we're hosed further.
+6. Soft quarantine knocks down the spread factor but is largely ineffective for completely preventing spread.  People still go out to the grocery store, the gym, the pharmacy, or pick up packages from delivery folk, and get infected at a background level--then bring those infections home to everyone else in their household.  Round v.1.4 should dynamically adjust the number of available adults in the population if strict quarantining actually works.
+7.  Note:  Since actual infections are probably somewhere between 500,000 and 5M at this moment, because they are lagged by 1-2 weeks (that's a factor of 10-100) behind known infections, even with strict quarantining we're probably still hosed.
+8.  Other countries such as Japan and Germany are maybe two weeks behind America.  Learn from the example of others, and it might be good to avoid repeating their mistakes.  You can use this code to run numbers for your region, too!  
  
  RECOMMENDATIONS:
  As of Tues Mar 24 '20 we have 14 days before known infections hit definite 5M, another 7 days before probable 50M.
